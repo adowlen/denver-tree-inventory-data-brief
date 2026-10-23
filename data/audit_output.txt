@@ -1,0 +1,21 @@
+PARTITION total=359263 trees=305295 site_state=53016 rescon_placeholders=947 blank_species=5 sum_check=PASS
+COUNTER species_common: 407 unique values, sum=359263 PASS
+COUNTER condition_all: 9 unique values, sum=359263 PASS
+COUNTER eab_tag_all: 178 unique values, sum=359263 PASS
+COUNTER site_designation_all: 24 unique values, sum=359263 PASS
+COUNTER neighbor_all: 81 unique values, sum=359263 PASS
+ASH DEFINITION common-name path = botanic-genus path = 33479 PASS
+FRAXINUS SPECIES {'Fraxinus pennsylvanica': 23244, 'Fraxinus americana': 10123, 'Fraxinus species': 55, 'Fraxinus nigra': 32, 'Fraxinus quadrangulata': 10, 'Fraxinus mandshurica': 8, "Fraxinus velutina 'Modesto'": 3, 'Fraxinus angustifolia': 2, 'Fraxinus excelsior': 2}
+NAME-COLLISION CONTROL '%Ash%'=34633 minus Fraxinus=33479 -> 1154 non-Fraxinus records excluded PASS
+DIAMETER ASH bins sum=33479 PASS; unknown bins (' '+'N/A')=58 printed, never bucketed into a size range
+DIAMETER TREES bins sum=305295 PASS
+EAB_TAG ASH blank=29176 tagged_anything=4303 top_tags=[(' ', 29176), ('xx', 1733), ('BB', 1481), ('TI', 545), ('0', 329), ('BB?', 67)]
+EAB_TAG is an undocumented free-text field (178 unique values incl. stray numerals); NO treatment claim is made from it. PASS (claim withheld)
+CONDITION trees sum=305295; not-determined (N/A+blank)=822 printed alongside determined shares; shares use full 305295 denominator PASS
+ASH poor+very poor+dead = 3802 of 33479
+NEIGHBORHOOD partitions sum PASS; pseudo-neighborhoods in source: {'Unassigned': 4282, 'N/A': 170, ' ': 12} (excluded from rankings, counts printed)
+SITE DESIGNATION ash sum=33479 PASS; top=[('Private Maintained Street Tr', 22574), ('Park', 2612), (' ', 1956)]
+CONTROL ash share of inventoried trees = 11.0% vs city-published '1 in 10 on public land' - consistent PASS
+POPULATION FIX underscore-only share=10.93% on 306247; identified-tree share=10.97% on 305295 - brief prints the identified-tree figure PASS
+ASH INVENTORY-DATE ERAS pre-2016=20160 2016-2020=10894 2021+=2425 sum PASS
+AUDIT PASSED

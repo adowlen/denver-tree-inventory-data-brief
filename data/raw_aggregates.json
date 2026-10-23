@@ -1,0 +1,6944 @@
+{
+  "total_records": 359263,
+  "non_tree_records": 53016,
+  "admin_placeholder_records": 947,
+  "blank_species_records": 5,
+  "tree_records": 305295,
+  "ash_dates_pre2016": 20160,
+  "ash_dates_2016_2020": 10894,
+  "ash_dates_2021plus": 2425,
+  "ash_records_common": 33479,
+  "ash_records_botanic": 33479,
+  "ashlike_name_records": 34633,
+  "species_common": [
+    [
+      "_Vacant Site",
+      26222
+    ],
+    [
+      "Honey Locust",
+      23780
+    ],
+    [
+      "Ash, Green",
+      23244
+    ],
+    [
+      "Linden, Littleleaf",
+      13394
+    ],
+    [
+      "Maple, Silver",
+      11630
+    ],
+    [
+      "Elm, Siberian",
+      10772
+    ],
+    [
+      "Hackberry, Common",
+      10640
+    ],
+    [
+      "_Vacant site-not plantable",
+      10563
+    ],
+    [
+      "Ash, White",
+      10123
+    ],
+    [
+      "Pear, Flowering",
+      9622
+    ],
+    [
+      "Crabapple, Flowering",
+      8578
+    ],
+    [
+      "_Stump",
+      8171
+    ],
+    [
+      "Spruce, Blue",
+      8105
+    ],
+    [
+      "Pine, Austrian",
+      8026
+    ],
+    [
+      "Maple, Norway",
+      7470
+    ],
+    [
+      "Pine, Ponderosa",
+      7134
+    ],
+    [
+      "Maple, Freeman 'Autumn Blaze'",
+      7117
+    ],
+    [
+      "Oak, Bur",
+      6112
+    ],
+    [
+      "Oak, Swamp White",
+      5966
+    ],
+    [
+      "Linden, American",
+      5450
+    ],
+    [
+      "Oak, Northern Red",
+      5198
+    ],
+    [
+      "Maple, freeman",
+      5158
+    ],
+    [
+      "Coffeetree, Kentucky",
+      4971
+    ],
+    [
+      "Catalpa, Western",
+      4827
+    ],
+    [
+      "_Stump not plantable",
+      4626
+    ],
+    [
+      "Juniper, Rocky Mountain",
+      4354
+    ],
+    [
+      "Elm, American",
+      4142
+    ],
+    [
+      "Maple, Red",
+      3130
+    ],
+    [
+      "Elm, Hybrid",
+      3101
+    ],
+    [
+      "Tree of heaven",
+      3083
+    ],
+    [
+      "_Tree requested",
+      3026
+    ],
+    [
+      "Aspen, Quaking",
+      2983
+    ],
+    [
+      "Cottonwood, Plains",
+      2918
+    ],
+    [
+      "Cottonwood, Eastern",
+      2838
+    ],
+    [
+      "Oak, English",
+      2732
+    ],
+    [
+      "Crabapple, Spring Snow",
+      2729
+    ],
+    [
+      "Pine, Pinyon",
+      1978
+    ],
+    [
+      "Maple, Sugar",
+      1776
+    ],
+    [
+      "Pine, Scotch",
+      1762
+    ],
+    [
+      "Oak, Chinkapin",
+      1670
+    ],
+    [
+      "Lilac, Japanese Tree",
+      1610
+    ],
+    [
+      "Maple, Amur",
+      1595
+    ],
+    [
+      "Goldenrain Tree",
+      1536
+    ],
+    [
+      "Hawthorn, Thornless Cockspur",
+      1512
+    ],
+    [
+      "Boxelder",
+      1490
+    ],
+    [
+      "Hawthorn",
+      1370
+    ],
+    [
+      "Buckeye, Ohio",
+      1317
+    ],
+    [
+      "Redbud, Eastern",
+      1285
+    ],
+    [
+      "Maple, Tatarian",
+      1140
+    ],
+    [
+      "Plum, Flowering",
+      1138
+    ],
+    [
+      "Chokecherry",
+      1135
+    ],
+    [
+      "Plane, London",
+      1118
+    ],
+    [
+      "Japanese Pagoda Tree",
+      1078
+    ],
+    [
+      "Maple, Tatarian 'Hotwings'",
+      1077
+    ],
+    [
+      "Ginkgo",
+      1066
+    ],
+    [
+      "Cottonwood, hybrid",
+      1043
+    ],
+    [
+      "Arborvitae, American",
+      1034
+    ],
+    [
+      "Oak, Shumard",
+      1024
+    ],
+    [
+      "Fir, Douglas",
+      1021
+    ],
+    [
+      "Apple, Edible",
+      991
+    ],
+    [
+      "Chokecherry, Canada Red",
+      970
+    ],
+    [
+      "Peach",
+      967
+    ],
+    [
+      "Coffeetree, Kentucky 'Espresso'",
+      911
+    ],
+    [
+      "Oak, English Columnar",
+      899
+    ],
+    [
+      "Cottonwood, Lanceleaf",
+      881
+    ],
+    [
+      "Serviceberry",
+      855
+    ],
+    [
+      "Maple, State street",
+      800
+    ],
+    [
+      "Olive, Russian",
+      787
+    ],
+    [
+      "Hawthorn, Washington",
+      766
+    ],
+    [
+      "Filbert, Turkish",
+      682
+    ],
+    [
+      "Juniper",
+      627
+    ],
+    [
+      "Elm, Accolade",
+      626
+    ],
+    [
+      "Maple, Hedge",
+      598
+    ],
+    [
+      "Crabapple",
+      594
+    ],
+    [
+      "Buckthorn",
+      589
+    ],
+    [
+      "Oak, White",
+      587
+    ],
+    [
+      "Elm, Triumph",
+      586
+    ],
+    [
+      "Plum, Newport",
+      546
+    ],
+    [
+      "Hawthorn, Cockspur",
+      530
+    ],
+    [
+      "ResCon Comp",
+      528
+    ],
+    [
+      "Oak, Heritage",
+      520
+    ],
+    [
+      "Maple, Bigtooth",
+      517
+    ],
+    [
+      "Cherry spp",
+      514
+    ],
+    [
+      "Oak, Gambel",
+      513
+    ],
+    [
+      "Elm, Princeton",
+      509
+    ],
+    [
+      "Cottonwood, Narrowleaf",
+      505
+    ],
+    [
+      "Serviceberry, Autumn Brilliance",
+      485
+    ],
+    [
+      "Willow, Peachleaf",
+      484
+    ],
+    [
+      "Willow, Crack",
+      483
+    ],
+    [
+      "Honey Locust, Skyline",
+      474
+    ],
+    [
+      "Crabapple, Prairie or Bechtel",
+      469
+    ],
+    [
+      "Catalpa",
+      453
+    ],
+    [
+      "Oak, Shingle",
+      428
+    ],
+    [
+      "Crabapple, Prairiefire",
+      423
+    ],
+    [
+      "ResCon",
+      419
+    ],
+    [
+      "Fir, White",
+      418
+    ],
+    [
+      "Pine, Bosnian",
+      415
+    ],
+    [
+      "Zelkova, Japanese",
+      411
+    ],
+    [
+      "Cottonwood",
+      406
+    ],
+    [
+      "Oak, Texas Red",
+      399
+    ],
+    [
+      "_unknown",
+      385
+    ],
+    [
+      "Cedar, Eastern Red",
+      376
+    ],
+    [
+      "Honey Locust, 'Shademaster' Thor",
+      371
+    ],
+    [
+      "Locust, Black",
+      367
+    ],
+    [
+      "Linden, Redmond",
+      350
+    ],
+    [
+      "Plum",
+      343
+    ],
+    [
+      "Juniper, chinese",
+      340
+    ],
+    [
+      "Mulberry, White",
+      332
+    ],
+    [
+      "Plum, American",
+      311
+    ],
+    [
+      "Oak, Regal prince",
+      307
+    ],
+    [
+      "Pine, Limber",
+      302
+    ],
+    [
+      "Hawthorn, Downy",
+      298
+    ],
+    [
+      "Maple, Rocky Mountain",
+      288
+    ],
+    [
+      "Maple, Norwegian Sunset",
+      286
+    ],
+    [
+      "Horsechestnut",
+      282
+    ],
+    [
+      "Elm, Frontier",
+      274
+    ],
+    [
+      "Oak, Pin",
+      268
+    ],
+    [
+      "Lilac, Peking",
+      267
+    ],
+    [
+      "Tulip Tree",
+      266
+    ],
+    [
+      "Arborvitae, Oriental",
+      262
+    ],
+    [
+      "Yellowwood",
+      248
+    ],
+    [
+      "Hackberry, Western",
+      247
+    ],
+    [
+      "Elm",
+      229
+    ],
+    [
+      "Buckeye, Yellow",
+      218
+    ],
+    [
+      "Honey Locust, Imperial",
+      216
+    ],
+    [
+      "Cherry, Sweet",
+      212
+    ],
+    [
+      "Hawthorn, Russian",
+      212
+    ],
+    [
+      "Juniper, One Seed",
+      210
+    ],
+    [
+      "Maple, Flashfire Sugar",
+      209
+    ],
+    [
+      "Osage Orange",
+      207
+    ],
+    [
+      "Cherry, Kwanzan",
+      205
+    ],
+    [
+      "Smoke tree",
+      204
+    ],
+    [
+      "Linden, Silver",
+      202
+    ],
+    [
+      "Spruce, White",
+      202
+    ],
+    [
+      "Pear, Fruiting",
+      199
+    ],
+    [
+      "Maple",
+      198
+    ],
+    [
+      "Hawthorn, English",
+      197
+    ],
+    [
+      "Pine, Mugo",
+      192
+    ],
+    [
+      "Pine, Bristlecone",
+      190
+    ],
+    [
+      "Elm, Augustine",
+      186
+    ],
+    [
+      "Oak, Scarlet",
+      180
+    ],
+    [
+      "Sumac, Staghorn",
+      180
+    ],
+    [
+      "Willow",
+      180
+    ],
+    [
+      "Spruce",
+      177
+    ],
+    [
+      "Apricot",
+      175
+    ],
+    [
+      "Planetree, London 'Exclamation'",
+      172
+    ],
+    [
+      "Maackia, Amur",
+      168
+    ],
+    [
+      "Oak, Crimson Spire",
+      166
+    ],
+    [
+      "Pine, Eastern White",
+      166
+    ],
+    [
+      "Cherry, Yoshino Flowering",
+      165
+    ],
+    [
+      "Sycamore, American",
+      165
+    ],
+    [
+      "Elm, Valley Forge",
+      163
+    ],
+    [
+      "Horsechestnut, Red",
+      157
+    ],
+    [
+      "Hawthorn, Winter King",
+      154
+    ],
+    [
+      "Spruce, Norway",
+      146
+    ],
+    [
+      "Pear",
+      144
+    ],
+    [
+      "Elm, David",
+      143
+    ],
+    [
+      "Pine",
+      143
+    ],
+    [
+      "Buckthorn, spp",
+      141
+    ],
+    [
+      "Willow, White",
+      141
+    ],
+    [
+      "Pine, Southwestern White",
+      139
+    ],
+    [
+      "Oak",
+      131
+    ],
+    [
+      "Birch, River",
+      128
+    ],
+    [
+      "Birch, Western River",
+      127
+    ],
+    [
+      "Horsechestnut, Autumn Splendor",
+      126
+    ],
+    [
+      "Plum, Fruiting",
+      125
+    ],
+    [
+      "Beech, European",
+      124
+    ],
+    [
+      "Rubber Tree, Hardy",
+      122
+    ],
+    [
+      "Poplar, White",
+      121
+    ],
+    [
+      "Sweetgum",
+      121
+    ],
+    [
+      "Hornbeam, European",
+      120
+    ],
+    [
+      "Dogwood, Cornelian Cherry",
+      116
+    ],
+    [
+      "Parrotia, Persian",
+      115
+    ],
+    [
+      "Walnut, Black",
+      115
+    ],
+    [
+      "Cherry, Montmorency",
+      113
+    ],
+    [
+      "Hophornbeam",
+      110
+    ],
+    [
+      "Horsechestnut, Fort McNair",
+      107
+    ],
+    [
+      "Mountain Ash, European",
+      106
+    ],
+    [
+      "Mulberry",
+      105
+    ],
+    [
+      "Willow, Black",
+      104
+    ],
+    [
+      "Oak, Sawtooth",
+      102
+    ],
+    [
+      "Elm, Chinese",
+      101
+    ],
+    [
+      "Baldcypress",
+      100
+    ],
+    [
+      "Cherry, Flowering",
+      100
+    ],
+    [
+      "Corktree, Amur",
+      98
+    ],
+    [
+      "Maple, John Pair",
+      98
+    ],
+    [
+      "Maple, Three-flowered",
+      98
+    ],
+    [
+      "Spruce, Serbian",
+      97
+    ],
+    [
+      "Crabapple Royal Raindrops",
+      96
+    ],
+    [
+      "Maple, Sycamore",
+      95
+    ],
+    [
+      "Oak, Heritage English",
+      95
+    ],
+    [
+      "Crabapple, Radiant",
+      94
+    ],
+    [
+      "Oak, Warei",
+      94
+    ],
+    [
+      "Spruce, Black Hills",
+      94
+    ],
+    [
+      "Lilac",
+      93
+    ],
+    [
+      "Hornbeam, American",
+      92
+    ],
+    [
+      "Hawthorn, Paul's Scarlet",
+      91
+    ],
+    [
+      "Hawthorn, Black, River",
+      90
+    ],
+    [
+      "Yellowwood, Kentucky",
+      86
+    ],
+    [
+      "Elm, Prospector",
+      85
+    ],
+    [
+      "Other",
+      82
+    ],
+    [
+      "Spruce, Engelmann",
+      82
+    ],
+    [
+      "Cypress, Arizona",
+      80
+    ],
+    [
+      "Elm, Emerald Sunshine",
+      80
+    ],
+    [
+      "Pine, Lodgepole",
+      80
+    ],
+    [
+      "Redbud, Western",
+      80
+    ],
+    [
+      "Serviceberry, Shadblow",
+      78
+    ],
+    [
+      "Sugarberry",
+      77
+    ],
+    [
+      "Linden, 'Glenleven'",
+      73
+    ],
+    [
+      "Maple, Pattern Perfect",
+      67
+    ],
+    [
+      "Spindle Tree",
+      67
+    ],
+    [
+      "Elm, New Horizon",
+      62
+    ],
+    [
+      "Horsechestnut, 'Briotti'",
+      58
+    ],
+    [
+      "Oak, Northern Pin",
+      58
+    ],
+    [
+      "Hornbeam, Upright European",
+      57
+    ],
+    [
+      "Ash",
+      55
+    ],
+    [
+      "Magnolia, Saucer",
+      52
+    ],
+    [
+      "Silver buffalo berry",
+      52
+    ],
+    [
+      "Elm, English",
+      50
+    ],
+    [
+      "Maple, Shantung",
+      50
+    ],
+    [
+      "Mountain Mahogany",
+      48
+    ],
+    [
+      "Maple, Japanese",
+      47
+    ],
+    [
+      "Oak, Oregon White",
+      46
+    ],
+    [
+      "Pear, Jack Flowering",
+      46
+    ],
+    [
+      "Spruce, Norway weeping",
+      45
+    ],
+    [
+      "Tupelo, Black, Blackgum",
+      45
+    ],
+    [
+      "Magnolia, Star",
+      43
+    ],
+    [
+      "Magnolia",
+      42
+    ],
+    [
+      "Alder, Thinleaf",
+      41
+    ],
+    [
+      "Cedar, Blue Atlas",
+      41
+    ],
+    [
+      "Pine, Western White",
+      41
+    ],
+    [
+      "Willow, Weeping",
+      41
+    ],
+    [
+      "Dogwood",
+      40
+    ],
+    [
+      "Hawthorn, Crimson Cloud",
+      37
+    ],
+    [
+      "Zelkova",
+      37
+    ],
+    [
+      "Cherry, Sargent",
+      35
+    ],
+    [
+      "Hawthorn, Toba",
+      35
+    ],
+    [
+      "Narrow-leaved gimlet",
+      35
+    ],
+    [
+      "Birch, Paper",
+      34
+    ],
+    [
+      "Goldenchain Tree",
+      34
+    ],
+    [
+      "Birch",
+      33
+    ],
+    [
+      "Ash, Black",
+      32
+    ],
+    [
+      "Catalpa, Eastern",
+      32
+    ],
+    [
+      "Dogwood, Flowering",
+      32
+    ],
+    [
+      "Honey Locust, Impcole",
+      32
+    ],
+    [
+      "Oak, Prairie Stature",
+      32
+    ],
+    [
+      "Pecan",
+      31
+    ],
+    [
+      "Cherry, Weeping",
+      30
+    ],
+    [
+      "Pear, Aristocrat Flowering",
+      30
+    ],
+    [
+      "Peashrub, Siberian",
+      30
+    ],
+    [
+      "Viburnum",
+      30
+    ],
+    [
+      "Ginkgo, Princeton Sentry",
+      29
+    ],
+    [
+      "Oak, Wavy Leaf",
+      28
+    ],
+    [
+      "Willow, Pussy",
+      28
+    ],
+    [
+      "Aspen, Eurasian",
+      27
+    ],
+    [
+      "Ginkgo, Magyar",
+      27
+    ],
+    [
+      "Magnolia, Ann",
+      27
+    ],
+    [
+      "Oak, Hungarian",
+      27
+    ],
+    [
+      "Birch, European White",
+      26
+    ],
+    [
+      "Mountain Ash",
+      26
+    ],
+    [
+      "Oak, Overcup",
+      26
+    ],
+    [
+      "Cherry, Black",
+      25
+    ],
+    [
+      "Willow, Globe Navajo",
+      25
+    ],
+    [
+      "Alder",
+      24
+    ],
+    [
+      "Alder, Grey",
+      24
+    ],
+    [
+      "Cedar",
+      24
+    ],
+    [
+      "Cherry, Manchurian",
+      23
+    ],
+    [
+      "May Day Tree, Bird Cherry",
+      23
+    ],
+    [
+      "Seven-Son Flower Tree",
+      23
+    ],
+    [
+      "_Vacant site - new",
+      22
+    ],
+    [
+      "Buckeye, `Homestead`",
+      22
+    ],
+    [
+      "Elm, Allee",
+      22
+    ],
+    [
+      "Cucumber Tree",
+      21
+    ],
+    [
+      "Maple, Trident",
+      21
+    ],
+    [
+      "Poplar, Fremont",
+      21
+    ],
+    [
+      "Yellowhorn",
+      21
+    ],
+    [
+      "Larch, European",
+      20
+    ],
+    [
+      "Pine, Foxtail",
+      20
+    ],
+    [
+      "Sequoia, Giant",
+      20
+    ],
+    [
+      "Coffeetree, Kentucky 'McKBranche",
+      19
+    ],
+    [
+      "Hackberry, Chinese",
+      19
+    ],
+    [
+      "Maple, Paperbark",
+      19
+    ],
+    [
+      "Pine, Jeffrey",
+      19
+    ],
+    [
+      "Yew",
+      19
+    ],
+    [
+      "Elm, Discovery",
+      16
+    ],
+    [
+      "Mountain Ash, Oakleaf",
+      16
+    ],
+    [
+      "Pine, Red",
+      16
+    ],
+    [
+      "Willow, Corkscrew",
+      16
+    ],
+    [
+      "Oak, Bur-Gambel",
+      15
+    ],
+    [
+      "Pistache, Chinese",
+      15
+    ],
+    [
+      "Rose-of-sharon",
+      14
+    ],
+    [
+      "Cedar of Lebanon",
+      13
+    ],
+    [
+      "N/A",
+      13
+    ],
+    [
+      "Spruce, Alberta",
+      13
+    ],
+    [
+      "Willow, Golden Weeping",
+      13
+    ],
+    [
+      "Alder, European",
+      12
+    ],
+    [
+      "Chestnut, Chinese",
+      12
+    ],
+    [
+      "Juniper, Prickly",
+      12
+    ],
+    [
+      "Katsura Tree",
+      12
+    ],
+    [
+      "Magnolia, Galaxy",
+      12
+    ],
+    [
+      "Stewartia, Japanese",
+      12
+    ],
+    [
+      "Beech",
+      11
+    ],
+    [
+      "Fringe Tree",
+      11
+    ],
+    [
+      "Juniper, Utah",
+      11
+    ],
+    [
+      "Oak, Colorado Foothills",
+      11
+    ],
+    [
+      "Walnut, English",
+      11
+    ],
+    [
+      "Ash, Blue",
+      10
+    ],
+    [
+      "Catalpa, Chinese",
+      10
+    ],
+    [
+      "Dogwood, Kousa",
+      10
+    ],
+    [
+      "Maple, Black",
+      10
+    ],
+    [
+      "Oak, Black",
+      10
+    ],
+    [
+      "Pine, Dwarf Japanese Umbrella",
+      10
+    ],
+    [
+      "Poplar",
+      10
+    ],
+    [
+      "Redwood, Dawn",
+      10
+    ],
+    [
+      "Walnut, Butternut",
+      10
+    ],
+    [
+      "Beech, American",
+      9
+    ],
+    [
+      "Elm, Rock",
+      9
+    ],
+    [
+      "Pea Tree, weeping siberian",
+      9
+    ],
+    [
+      "Persimmon",
+      9
+    ],
+    [
+      "Pine, Japanese Black",
+      9
+    ],
+    [
+      "Ash, Manchurian",
+      8
+    ],
+    [
+      "Hickory, Shagbark",
+      8
+    ],
+    [
+      "Larch",
+      8
+    ],
+    [
+      "Oak, Willow",
+      8
+    ],
+    [
+      "Plum, Princess Kay",
+      8
+    ],
+    [
+      "Buckeye, Texas",
+      7
+    ],
+    [
+      "Cedar, Deodara",
+      7
+    ],
+    [
+      "Cedar, Western Red",
+      7
+    ],
+    [
+      "Elderberry, Common",
+      7
+    ],
+    [
+      "Hoptree, Common",
+      7
+    ],
+    [
+      "Jujube, Common, Red Date",
+      7
+    ],
+    [
+      "Linden, Centennial",
+      7
+    ],
+    [
+      "Mimosa",
+      7
+    ],
+    [
+      "Oak, Schuette",
+      7
+    ],
+    [
+      "Peach, weeping",
+      7
+    ],
+    [
+      "Willow, Desert",
+      7
+    ],
+    [
+      "Crabapple, Dolgo",
+      6
+    ],
+    [
+      "Elm, Field",
+      6
+    ],
+    [
+      "Euonymous, burning bush",
+      6
+    ],
+    [
+      "Flowering Almond",
+      6
+    ],
+    [
+      "Japanese Pagoda Tree 'Regent'",
+      6
+    ],
+    [
+      "Oak, Chestnut",
+      6
+    ],
+    [
+      "Pine, Jack",
+      6
+    ],
+    [
+      "Plum, Stanley Semi-Dwarf",
+      6
+    ],
+    [
+      "Poplar, Lombardy",
+      6
+    ],
+    [
+      "Sumac",
+      6
+    ],
+    [
+      "Whitebeam, Swedish",
+      6
+    ],
+    [
+      " ",
+      5
+    ],
+    [
+      "Beech, Weeping European",
+      5
+    ],
+    [
+      "Birch, Japanese White",
+      5
+    ],
+    [
+      "Cherry, sand",
+      5
+    ],
+    [
+      "Cypress, False",
+      5
+    ],
+    [
+      "Larch, Siberian",
+      5
+    ],
+    [
+      "Locust, Purple Robe",
+      5
+    ],
+    [
+      "Magnolia, Kobus",
+      5
+    ],
+    [
+      "Pawpaw, American",
+      5
+    ],
+    [
+      "Cherry, North Star",
+      4
+    ],
+    [
+      "Linden, Harvest Gold",
+      4
+    ],
+    [
+      "Maple Big Leaf",
+      4
+    ],
+    [
+      "Paulownia",
+      4
+    ],
+    [
+      "Pine, Afghan",
+      4
+    ],
+    [
+      "Pine, Lacebark",
+      4
+    ],
+    [
+      "Redbud, Oklahoma",
+      4
+    ],
+    [
+      "Viburnum, Blackhaw",
+      4
+    ],
+    [
+      "Alder, Red",
+      3
+    ],
+    [
+      "Ash, Modesto",
+      3
+    ],
+    [
+      "Broadleaf Deciduous Small Other",
+      3
+    ],
+    [
+      "Dogwood, Pagoda",
+      3
+    ],
+    [
+      "Dogwood, Tatarian",
+      3
+    ],
+    [
+      "Elm, Wych",
+      3
+    ],
+    [
+      "Fir",
+      3
+    ],
+    [
+      "Hemlock",
+      3
+    ],
+    [
+      "Hickory",
+      3
+    ],
+    [
+      "Mulberry, Red",
+      3
+    ],
+    [
+      "Oak, Japanese Emperor",
+      3
+    ],
+    [
+      "Oak, Mexican White",
+      3
+    ],
+    [
+      "Oak, Nutall",
+      3
+    ],
+    [
+      "Stewartia",
+      3
+    ],
+    [
+      "Ash, European",
+      2
+    ],
+    [
+      "Ash, Raywood",
+      2
+    ],
+    [
+      "Buckeye, Red",
+      2
+    ],
+    [
+      "Crabapple, Japanese",
+      2
+    ],
+    [
+      "Filbert",
+      2
+    ],
+    [
+      "Fir, Subalpine",
+      2
+    ],
+    [
+      "Fringe Tree, Chinese",
+      2
+    ],
+    [
+      "Japanese Pogoda Tree Millstone",
+      2
+    ],
+    [
+      "Magnolia, Southern",
+      2
+    ],
+    [
+      "Spruce, Oriental",
+      2
+    ],
+    [
+      "Spruce, Sitka",
+      2
+    ],
+    [
+      "Tamarisk, Salt Cedar",
+      2
+    ],
+    [
+      "Willow, weeping-pussy",
+      2
+    ],
+    [
+      "_Ash on property",
+      1
+    ],
+    [
+      "Baldcypress, 'Mickelson'",
+      1
+    ],
+    [
+      "Cherry, snow fountains",
+      1
+    ],
+    [
+      "Conifer Evergreen Medium Other",
+      1
+    ],
+    [
+      "Cypress",
+      1
+    ],
+    [
+      "Cypress, Italian",
+      1
+    ],
+    [
+      "Fig",
+      1
+    ],
+    [
+      "Holly Berry",
+      1
+    ],
+    [
+      "Locust, New Mexico",
+      1
+    ],
+    [
+      "Maple, Montpelier",
+      1
+    ],
+    [
+      "Olive, Autumn",
+      1
+    ],
+    [
+      "Pine, Swiss Stone",
+      1
+    ],
+    [
+      "Sassafras",
+      1
+    ],
+    [
+      "Soapberry, Western",
+      1
+    ],
+    [
+      "Sourwood",
+      1
+    ],
+    [
+      "test site",
+      1
+    ]
+  ],
+  "species_botanic_fraxinus": [
+    [
+      "Fraxinus pennsylvanica",
+      23244
+    ],
+    [
+      "Fraxinus americana",
+      10123
+    ],
+    [
+      "Fraxinus species",
+      55
+    ],
+    [
+      "Fraxinus nigra",
+      32
+    ],
+    [
+      "Fraxinus quadrangulata",
+      10
+    ],
+    [
+      "Fraxinus mandshurica",
+      8
+    ],
+    [
+      "Fraxinus velutina 'Modesto'",
+      3
+    ],
+    [
+      "Fraxinus angustifolia",
+      2
+    ],
+    [
+      "Fraxinus excelsior",
+      2
+    ]
+  ],
+  "condition_all": [
+    [
+      "Fair",
+      140402
+    ],
+    [
+      "Good",
+      130843
+    ],
+    [
+      "N/A",
+      50099
+    ],
+    [
+      "Poor",
+      22697
+    ],
+    [
+      "Very Poor",
+      5899
+    ],
+    [
+      "Dead",
+      5788
+    ],
+    [
+      "Excellent",
+      3529
+    ],
+    [
+      " ",
+      3
+    ],
+    [
+      "Proposed",
+      3
+    ]
+  ],
+  "condition_non_tree": [
+    [
+      "N/A",
+      48347
+    ],
+    [
+      "Good",
+      2602
+    ],
+    [
+      "Dead",
+      1069
+    ],
+    [
+      "Fair",
+      442
+    ],
+    [
+      "Poor",
+      288
+    ],
+    [
+      "Very Poor",
+      247
+    ],
+    [
+      "Excellent",
+      20
+    ],
+    [
+      "Proposed",
+      1
+    ]
+  ],
+  "condition_trees": [
+    [
+      "Fair",
+      139960
+    ],
+    [
+      "Good",
+      128222
+    ],
+    [
+      "Poor",
+      22409
+    ],
+    [
+      "Very Poor",
+      5652
+    ],
+    [
+      "Dead",
+      4719
+    ],
+    [
+      "Excellent",
+      3509
+    ],
+    [
+      "N/A",
+      820
+    ],
+    [
+      " ",
+      2
+    ],
+    [
+      "Proposed",
+      2
+    ]
+  ],
+  "condition_ash": [
+    [
+      "Fair",
+      21188
+    ],
+    [
+      "Good",
+      8440
+    ],
+    [
+      "Poor",
+      2991
+    ],
+    [
+      "Very Poor",
+      631
+    ],
+    [
+      "Dead",
+      180
+    ],
+    [
+      "Excellent",
+      24
+    ],
+    [
+      "N/A",
+      24
+    ],
+    [
+      " ",
+      1
+    ]
+  ],
+  "condition_non_ash_trees": [
+    [
+      "Good",
+      119782
+    ],
+    [
+      "Fair",
+      118772
+    ],
+    [
+      "Poor",
+      19418
+    ],
+    [
+      "Very Poor",
+      5021
+    ],
+    [
+      "Dead",
+      4539
+    ],
+    [
+      "Excellent",
+      3485
+    ],
+    [
+      "N/A",
+      796
+    ],
+    [
+      "Proposed",
+      2
+    ],
+    [
+      " ",
+      1
+    ]
+  ],
+  "diameter_trees": [
+    [
+      "0 to 6",
+      120046
+    ],
+    [
+      "6 to 12",
+      76152
+    ],
+    [
+      "12 to 18",
+      52138
+    ],
+    [
+      "18 to 24",
+      27103
+    ],
+    [
+      "24 to 30",
+      14543
+    ],
+    [
+      "30 to 36",
+      7912
+    ],
+    [
+      "36 to 42",
+      3593
+    ],
+    [
+      "42 to 48",
+      1488
+    ],
+    [
+      " ",
+      1256
+    ],
+    [
+      "48 +",
+      1049
+    ],
+    [
+      "N/A",
+      15
+    ]
+  ],
+  "diameter_ash": [
+    [
+      "12 to 18",
+      11857
+    ],
+    [
+      "6 to 12",
+      11677
+    ],
+    [
+      "18 to 24",
+      4658
+    ],
+    [
+      "0 to 6",
+      2724
+    ],
+    [
+      "24 to 30",
+      1691
+    ],
+    [
+      "30 to 36",
+      597
+    ],
+    [
+      "36 to 42",
+      162
+    ],
+    [
+      " ",
+      58
+    ],
+    [
+      "42 to 48",
+      37
+    ],
+    [
+      "48 +",
+      18
+    ]
+  ],
+  "diameter_non_tree": [
+    [
+      "0 to 6",
+      40533
+    ],
+    [
+      "6 to 12",
+      5469
+    ],
+    [
+      " ",
+      2794
+    ],
+    [
+      "12 to 18",
+      1918
+    ],
+    [
+      "18 to 24",
+      927
+    ],
+    [
+      "24 to 30",
+      558
+    ],
+    [
+      "30 to 36",
+      301
+    ],
+    [
+      "N/A",
+      261
+    ],
+    [
+      "36 to 42",
+      147
+    ],
+    [
+      "42 to 48",
+      61
+    ],
+    [
+      "48 +",
+      47
+    ]
+  ],
+  "site_designation_all": [
+    [
+      "Private Maintained Street Tr",
+      191250
+    ],
+    [
+      "Park",
+      61089
+    ],
+    [
+      " ",
+      38497
+    ],
+    [
+      "School",
+      13281
+    ],
+    [
+      "Street Tree",
+      13161
+    ],
+    [
+      "Median",
+      8831
+    ],
+    [
+      "Private Property Tree",
+      8332
+    ],
+    [
+      "Golf Course",
+      8267
+    ],
+    [
+      "HLCC",
+      5022
+    ],
+    [
+      "HOA street tree",
+      3540
+    ],
+    [
+      "City Building",
+      3344
+    ],
+    [
+      "Other",
+      1294
+    ],
+    [
+      "Sidewalk",
+      947
+    ],
+    [
+      "Front or side setback",
+      630
+    ],
+    [
+      "City maintained street tree",
+      459
+    ],
+    [
+      "Natural Area",
+      307
+    ],
+    [
+      "Trail",
+      208
+    ],
+    [
+      "Tree Lawn",
+      207
+    ],
+    [
+      "Mountain Park",
+      206
+    ],
+    [
+      "City Owned Parcel",
+      166
+    ],
+    [
+      "Orphan Parcel",
+      100
+    ],
+    [
+      "DOTI GI",
+      93
+    ],
+    [
+      "Denver Fire Dept",
+      30
+    ],
+    [
+      "N/A",
+      2
+    ]
+  ],
+  "site_designation_ash": [
+    [
+      "Private Maintained Street Tr",
+      22574
+    ],
+    [
+      "Park",
+      2612
+    ],
+    [
+      " ",
+      1956
+    ],
+    [
+      "School",
+      1508
+    ],
+    [
+      "Street Tree",
+      1463
+    ],
+    [
+      "HLCC",
+      1186
+    ],
+    [
+      "Private Property Tree",
+      664
+    ],
+    [
+      "Golf Course",
+      501
+    ],
+    [
+      "Median",
+      448
+    ],
+    [
+      "HOA street tree",
+      302
+    ],
+    [
+      "City Building",
+      176
+    ],
+    [
+      "Front or side setback",
+      32
+    ],
+    [
+      "Sidewalk",
+      19
+    ],
+    [
+      "City Owned Parcel",
+      15
+    ],
+    [
+      "Orphan Parcel",
+      9
+    ],
+    [
+      "Tree Lawn",
+      5
+    ],
+    [
+      "City maintained street tree",
+      4
+    ],
+    [
+      "Natural Area",
+      3
+    ],
+    [
+      "Other",
+      2
+    ]
+  ],
+  "site_designation_trees": [
+    [
+      "Private Maintained Street Tr",
+      155459
+    ],
+    [
+      "Park",
+      54398
+    ],
+    [
+      " ",
+      35657
+    ],
+    [
+      "School",
+      12412
+    ],
+    [
+      "Street Tree",
+      11698
+    ],
+    [
+      "Median",
+      7743
+    ],
+    [
+      "Private Property Tree",
+      6896
+    ],
+    [
+      "Golf Course",
+      6875
+    ],
+    [
+      "HLCC",
+      4942
+    ],
+    [
+      "HOA street tree",
+      3086
+    ],
+    [
+      "City Building",
+      3011
+    ],
+    [
+      "Sidewalk",
+      806
+    ],
+    [
+      "Other",
+      547
+    ],
+    [
+      "City maintained street tree",
+      368
+    ],
+    [
+      "Front or side setback",
+      330
+    ],
+    [
+      "Natural Area",
+      220
+    ],
+    [
+      "Mountain Park",
+      171
+    ],
+    [
+      "Trail",
+      168
+    ],
+    [
+      "Tree Lawn",
+      154
+    ],
+    [
+      "City Owned Parcel",
+      147
+    ],
+    [
+      "DOTI GI",
+      93
+    ],
+    [
+      "Orphan Parcel",
+      84
+    ],
+    [
+      "Denver Fire Dept",
+      29
+    ],
+    [
+      "N/A",
+      1
+    ]
+  ],
+  "neighbor_ash": [
+    [
+      "Gateway - Green Valley Ranch",
+      2374
+    ],
+    [
+      "Central Park",
+      1961
+    ],
+    [
+      "South Park Hill",
+      1203
+    ],
+    [
+      "Congress Park",
+      1068
+    ],
+    [
+      "Indian Creek",
+      924
+    ],
+    [
+      "Lowry Field",
+      866
+    ],
+    [
+      "Washington Park",
+      863
+    ],
+    [
+      "Marston",
+      815
+    ],
+    [
+      "City Park",
+      790
+    ],
+    [
+      "Hampden South",
+      779
+    ],
+    [
+      "Highland",
+      709
+    ],
+    [
+      "Hilltop",
+      662
+    ],
+    [
+      "Cherry Creek",
+      651
+    ],
+    [
+      "University Park",
+      632
+    ],
+    [
+      "West Highland",
+      629
+    ],
+    [
+      "North Park Hill",
+      628
+    ],
+    [
+      "Montbello",
+      599
+    ],
+    [
+      "Speer",
+      584
+    ],
+    [
+      "Berkeley",
+      579
+    ],
+    [
+      "Five Points",
+      572
+    ],
+    [
+      "Hampden",
+      563
+    ],
+    [
+      "Sloan Lake",
+      555
+    ],
+    [
+      "Sunnyside",
+      554
+    ],
+    [
+      "Washington Park West",
+      541
+    ],
+    [
+      "Montclair",
+      536
+    ],
+    [
+      "Hale",
+      500
+    ],
+    [
+      "City Park West",
+      486
+    ],
+    [
+      "Platt Park",
+      474
+    ],
+    [
+      "Capitol Hill",
+      461
+    ],
+    [
+      "Whittier",
+      458
+    ],
+    [
+      "Virginia Village",
+      422
+    ],
+    [
+      "Baker",
+      419
+    ],
+    [
+      "Cheesman Park",
+      419
+    ],
+    [
+      "Windsor",
+      408
+    ],
+    [
+      "Country Club",
+      381
+    ],
+    [
+      "University",
+      380
+    ],
+    [
+      "Wellshire",
+      372
+    ],
+    [
+      "Belcaro",
+      361
+    ],
+    [
+      "Cory - Merrill",
+      361
+    ],
+    [
+      "Clayton",
+      330
+    ],
+    [
+      "Lincoln Park",
+      305
+    ],
+    [
+      "East Colfax",
+      280
+    ],
+    [
+      "University Hills",
+      266
+    ],
+    [
+      "Barnum",
+      263
+    ],
+    [
+      "Cole",
+      261
+    ],
+    [
+      "West Colfax",
+      261
+    ],
+    [
+      "Northeast Park Hill",
+      258
+    ],
+    [
+      "Washington Virginia Vale",
+      247
+    ],
+    [
+      "Regis",
+      244
+    ],
+    [
+      "Elyria Swansea",
+      239
+    ],
+    [
+      "Westwood",
+      230
+    ],
+    [
+      "Fort Logan",
+      219
+    ],
+    [
+      "Ruby Hill",
+      216
+    ],
+    [
+      "Skyland",
+      205
+    ],
+    [
+      "Rosedale",
+      186
+    ],
+    [
+      "Harvey Park South",
+      184
+    ],
+    [
+      "Kennedy",
+      175
+    ],
+    [
+      "North Capitol Hill",
+      173
+    ],
+    [
+      "Mar Lee",
+      169
+    ],
+    [
+      "Overland",
+      163
+    ],
+    [
+      "Southmoor Park",
+      158
+    ],
+    [
+      "Athmar Park",
+      156
+    ],
+    [
+      "Civic Center",
+      150
+    ],
+    [
+      "Harvey Park",
+      143
+    ],
+    [
+      "Villa Park",
+      143
+    ],
+    [
+      "Barnum West",
+      135
+    ],
+    [
+      "Goldsmith",
+      129
+    ],
+    [
+      "DIA",
+      126
+    ],
+    [
+      "Globeville",
+      124
+    ],
+    [
+      "Bear Valley",
+      116
+    ],
+    [
+      "College View - South Platte",
+      114
+    ],
+    [
+      "Jefferson Park",
+      107
+    ],
+    [
+      "Valverde",
+      94
+    ],
+    [
+      "Chaffee Park",
+      77
+    ],
+    [
+      "Sun Valley",
+      74
+    ],
+    [
+      "Union Station",
+      69
+    ],
+    [
+      "Auraria",
+      60
+    ],
+    [
+      "CBD",
+      52
+    ],
+    [
+      "Unassigned",
+      32
+    ],
+    [
+      "N/A",
+      6
+    ],
+    [
+      " ",
+      1
+    ]
+  ],
+  "neighbor_trees": [
+    [
+      "Central Park",
+      23032
+    ],
+    [
+      "Gateway - Green Valley Ranch",
+      18544
+    ],
+    [
+      "Hilltop",
+      8985
+    ],
+    [
+      "Lowry Field",
+      8598
+    ],
+    [
+      "South Park Hill",
+      8360
+    ],
+    [
+      "Washington Park",
+      8160
+    ],
+    [
+      "City Park",
+      7722
+    ],
+    [
+      "North Park Hill",
+      6111
+    ],
+    [
+      "Five Points",
+      6044
+    ],
+    [
+      "Berkeley",
+      5982
+    ],
+    [
+      "Congress Park",
+      5781
+    ],
+    [
+      "Sloan Lake",
+      5516
+    ],
+    [
+      "Montbello",
+      5371
+    ],
+    [
+      "West Highland",
+      5130
+    ],
+    [
+      "Sunnyside",
+      4889
+    ],
+    [
+      "Hampden South",
+      4778
+    ],
+    [
+      "Highland",
+      4764
+    ],
+    [
+      "Hampden",
+      4709
+    ],
+    [
+      "Cherry Creek",
+      4624
+    ],
+    [
+      "University Park",
+      4573
+    ],
+    [
+      "Speer",
+      4333
+    ],
+    [
+      "Montclair",
+      4332
+    ],
+    [
+      "Unassigned",
+      4282
+    ],
+    [
+      "Belcaro",
+      4041
+    ],
+    [
+      "Platt Park",
+      4030
+    ],
+    [
+      "Regis",
+      4018
+    ],
+    [
+      "Hale",
+      3884
+    ],
+    [
+      "Washington Park West",
+      3849
+    ],
+    [
+      "Washington Virginia Vale",
+      3834
+    ],
+    [
+      "University",
+      3581
+    ],
+    [
+      "Virginia Village",
+      3568
+    ],
+    [
+      "Country Club",
+      3548
+    ],
+    [
+      "Elyria Swansea",
+      3419
+    ],
+    [
+      "Whittier",
+      3413
+    ],
+    [
+      "Indian Creek",
+      3349
+    ],
+    [
+      "East Colfax",
+      3317
+    ],
+    [
+      "Clayton",
+      3269
+    ],
+    [
+      "Northeast Park Hill",
+      3240
+    ],
+    [
+      "West Colfax",
+      3193
+    ],
+    [
+      "Cheesman Park",
+      3145
+    ],
+    [
+      "Baker",
+      3136
+    ],
+    [
+      "Capitol Hill",
+      2980
+    ],
+    [
+      "Skyland",
+      2905
+    ],
+    [
+      "Lincoln Park",
+      2878
+    ],
+    [
+      "Overland",
+      2845
+    ],
+    [
+      "Marston",
+      2757
+    ],
+    [
+      "Fort Logan",
+      2697
+    ],
+    [
+      "University Hills",
+      2663
+    ],
+    [
+      "Athmar Park",
+      2643
+    ],
+    [
+      "Ruby Hill",
+      2639
+    ],
+    [
+      "Cory - Merrill",
+      2495
+    ],
+    [
+      "Barnum",
+      2443
+    ],
+    [
+      "Villa Park",
+      2415
+    ],
+    [
+      "Wellshire",
+      2407
+    ],
+    [
+      "Cole",
+      2401
+    ],
+    [
+      "Westwood",
+      2297
+    ],
+    [
+      "City Park West",
+      2246
+    ],
+    [
+      "Union Station",
+      2197
+    ],
+    [
+      "DIA",
+      2090
+    ],
+    [
+      "Jefferson Park",
+      2054
+    ],
+    [
+      "Mar Lee",
+      2024
+    ],
+    [
+      "Kennedy",
+      1995
+    ],
+    [
+      "Rosedale",
+      1954
+    ],
+    [
+      "Windsor",
+      1796
+    ],
+    [
+      "Harvey Park",
+      1765
+    ],
+    [
+      "Chaffee Park",
+      1756
+    ],
+    [
+      "Barnum West",
+      1678
+    ],
+    [
+      "Valverde",
+      1539
+    ],
+    [
+      "Globeville",
+      1530
+    ],
+    [
+      "Harvey Park South",
+      1524
+    ],
+    [
+      "Civic Center",
+      1478
+    ],
+    [
+      "Bear Valley",
+      1452
+    ],
+    [
+      "CBD",
+      1400
+    ],
+    [
+      "Southmoor Park",
+      1378
+    ],
+    [
+      "North Capitol Hill",
+      1336
+    ],
+    [
+      "College View - South Platte",
+      1246
+    ],
+    [
+      "Auraria",
+      1189
+    ],
+    [
+      "Sun Valley",
+      795
+    ],
+    [
+      "Goldsmith",
+      772
+    ],
+    [
+      "N/A",
+      170
+    ],
+    [
+      " ",
+      12
+    ]
+  ],
+  "neighbor_all": [
+    [
+      "Central Park",
+      26244
+    ],
+    [
+      "Gateway - Green Valley Ranch",
+      21578
+    ],
+    [
+      "Hilltop",
+      9976
+    ],
+    [
+      "Lowry Field",
+      9343
+    ],
+    [
+      "South Park Hill",
+      9168
+    ],
+    [
+      "Washington Park",
+      9026
+    ],
+    [
+      "City Park",
+      8210
+    ],
+    [
+      "Berkeley",
+      7215
+    ],
+    [
+      "North Park Hill",
+      7145
+    ],
+    [
+      "Five Points",
+      7102
+    ],
+    [
+      "Congress Park",
+      6569
+    ],
+    [
+      "Montbello",
+      6513
+    ],
+    [
+      "Sloan Lake",
+      6464
+    ],
+    [
+      "West Highland",
+      6167
+    ],
+    [
+      "Sunnyside",
+      6021
+    ],
+    [
+      "Highland",
+      5716
+    ],
+    [
+      "Hampden",
+      5540
+    ],
+    [
+      "University Park",
+      5496
+    ],
+    [
+      "Hampden South",
+      5334
+    ],
+    [
+      "Cherry Creek",
+      5293
+    ],
+    [
+      "Speer",
+      5266
+    ],
+    [
+      "Montclair",
+      5024
+    ],
+    [
+      "Platt Park",
+      4783
+    ],
+    [
+      "Washington Virginia Vale",
+      4684
+    ],
+    [
+      "Regis",
+      4592
+    ],
+    [
+      "Washington Park West",
+      4555
+    ],
+    [
+      "Hale",
+      4515
+    ],
+    [
+      "Virginia Village",
+      4489
+    ],
+    [
+      "Belcaro",
+      4473
+    ],
+    [
+      "Unassigned",
+      4464
+    ],
+    [
+      "University",
+      4319
+    ],
+    [
+      "West Colfax",
+      4252
+    ],
+    [
+      "East Colfax",
+      4244
+    ],
+    [
+      "Elyria Swansea",
+      4093
+    ],
+    [
+      "Northeast Park Hill",
+      4092
+    ],
+    [
+      "Whittier",
+      3962
+    ],
+    [
+      "Country Club",
+      3946
+    ],
+    [
+      "Clayton",
+      3920
+    ],
+    [
+      "Baker",
+      3806
+    ],
+    [
+      "Overland",
+      3624
+    ],
+    [
+      "Capitol Hill",
+      3619
+    ],
+    [
+      "Athmar Park",
+      3573
+    ],
+    [
+      "Cheesman Park",
+      3507
+    ],
+    [
+      "Lincoln Park",
+      3506
+    ],
+    [
+      "Ruby Hill",
+      3491
+    ],
+    [
+      "Skyland",
+      3456
+    ],
+    [
+      "Indian Creek",
+      3427
+    ],
+    [
+      "University Hills",
+      3284
+    ],
+    [
+      "Barnum",
+      3219
+    ],
+    [
+      "Westwood",
+      3189
+    ],
+    [
+      "Marston",
+      3134
+    ],
+    [
+      "Cory - Merrill",
+      3091
+    ],
+    [
+      "Villa Park",
+      3075
+    ],
+    [
+      "Cole",
+      2921
+    ],
+    [
+      "Fort Logan",
+      2906
+    ],
+    [
+      "Wellshire",
+      2873
+    ],
+    [
+      "Harvey Park",
+      2687
+    ],
+    [
+      "Kennedy",
+      2636
+    ],
+    [
+      "City Park West",
+      2625
+    ],
+    [
+      "Mar Lee",
+      2543
+    ],
+    [
+      "Union Station",
+      2451
+    ],
+    [
+      "Jefferson Park",
+      2420
+    ],
+    [
+      "DIA",
+      2370
+    ],
+    [
+      "Barnum West",
+      2282
+    ],
+    [
+      "Rosedale",
+      2259
+    ],
+    [
+      "Valverde",
+      2201
+    ],
+    [
+      "Chaffee Park",
+      2162
+    ],
+    [
+      "Globeville",
+      1956
+    ],
+    [
+      "Windsor",
+      1945
+    ],
+    [
+      "Harvey Park South",
+      1813
+    ],
+    [
+      "Civic Center",
+      1745
+    ],
+    [
+      "North Capitol Hill",
+      1639
+    ],
+    [
+      "CBD",
+      1619
+    ],
+    [
+      "Bear Valley",
+      1612
+    ],
+    [
+      "Southmoor Park",
+      1581
+    ],
+    [
+      "College View - South Platte",
+      1535
+    ],
+    [
+      "Auraria",
+      1446
+    ],
+    [
+      "Sun Valley",
+      1120
+    ],
+    [
+      "Goldsmith",
+      902
+    ],
+    [
+      "N/A",
+      208
+    ],
+    [
+      " ",
+      12
+    ]
+  ],
+  "location_ash_park": [
+    [
+      "City Park",
+      400
+    ],
+    [
+      "Wallace (George M) Park",
+      195
+    ],
+    [
+      "Sloan's Lake Park",
+      132
+    ],
+    [
+      "Wallace (George M) Park Nort",
+      84
+    ],
+    [
+      "Weir Gulch Park - North of A",
+      81
+    ],
+    [
+      "Cheesman Park",
+      72
+    ],
+    [
+      "Ruby Hill Park",
+      66
+    ],
+    [
+      "Thomas (Fred N) Park",
+      47
+    ],
+    [
+      "0 Non-park tree",
+      45
+    ],
+    [
+      "Cook (Judge Joseph E) Park",
+      41
+    ],
+    [
+      "Washington Park",
+      41
+    ],
+    [
+      "Berkeley Lake Park",
+      37
+    ],
+    [
+      "Weir Gulch Park - South of A",
+      35
+    ],
+    [
+      "Boyd (J. Langston) Park",
+      34
+    ],
+    [
+      "Other",
+      34
+    ],
+    [
+      "Barnum Park",
+      32
+    ],
+    [
+      "Bear Creek Park",
+      30
+    ],
+    [
+      "Cherry Creek Park",
+      29
+    ],
+    [
+      "Bible (James A) Park",
+      28
+    ],
+    [
+      "Observatory Park",
+      27
+    ],
+    [
+      "Bear Valley Park",
+      26
+    ],
+    [
+      "Hampden Heights Park",
+      26
+    ],
+    [
+      "Rosamond Park",
+      26
+    ],
+    [
+      "Crestmoor Park",
+      24
+    ],
+    [
+      "Harvard Gulch East",
+      24
+    ],
+    [
+      "Pinehurst Park",
+      23
+    ],
+    [
+      "Inspiration Point Park",
+      22
+    ],
+    [
+      "La Alma / Lincoln Park",
+      22
+    ],
+    [
+      "Lakewood / Dry Gulch Park",
+      21
+    ],
+    [
+      "Wellshire Municipal Golf Cou",
+      21
+    ],
+    [
+      "Harvard Gulch Golf Course",
+      18
+    ],
+    [
+      "West-Bar-Val-Wood Park",
+      18
+    ],
+    [
+      "Eisenhower (Mamie Doud) Park",
+      17
+    ],
+    [
+      "Garland (David T) Park",
+      17
+    ],
+    [
+      "Hutchinson (Theodore A) Park",
+      17
+    ],
+    [
+      "Rocky Mountain Lake Park",
+      17
+    ],
+    [
+      "Sanchez (Paco) Park",
+      17
+    ],
+    [
+      "Silverman (Melvin F) Park",
+      17
+    ],
+    [
+      "Morrison (George Sr.) Park",
+      16
+    ],
+    [
+      "Southwest Recreation Center",
+      16
+    ],
+    [
+      "Harvey Park",
+      15
+    ],
+    [
+      "Unnamed 51st & Zuni Park",
+      15
+    ],
+    [
+      "Verbena Park",
+      15
+    ],
+    [
+      "Argo Park",
+      14
+    ],
+    [
+      "Ash Grove Park",
+      14
+    ],
+    [
+      "Grant Frontier Park",
+      14
+    ],
+    [
+      "McWilliams (Robert H) Park",
+      14
+    ],
+    [
+      "City of Potenza Park",
+      13
+    ],
+    [
+      "Four Mile Historic Park",
+      13
+    ],
+    [
+      "Montbello Central Park",
+      13
+    ],
+    [
+      "Montbello Civic Center Park",
+      13
+    ],
+    [
+      "City of Brest Park",
+      12
+    ],
+    [
+      "Eastmoor Park",
+      12
+    ],
+    [
+      "Frontier West",
+      12
+    ],
+    [
+      "La Lomita Park",
+      12
+    ],
+    [
+      "Mayfair Park",
+      12
+    ],
+    [
+      "Garfield Lake Park",
+      10
+    ],
+    [
+      "Harvard Gulch West",
+      10
+    ],
+    [
+      "Hutchinson East Park",
+      10
+    ],
+    [
+      "Loretto Heights Park",
+      10
+    ],
+    [
+      "Manley (James N) Park",
+      10
+    ],
+    [
+      "Pulaski Park",
+      10
+    ],
+    [
+      "Southmoor Park",
+      10
+    ],
+    [
+      "Bow Mar Heights Park",
+      9
+    ],
+    [
+      "Denison Park",
+      9
+    ],
+    [
+      "Governors Park",
+      9
+    ],
+    [
+      "Greenway Park",
+      9
+    ],
+    [
+      "Jackie Robinson Fields",
+      9
+    ],
+    [
+      "Pinecrest Village Park",
+      9
+    ],
+    [
+      "Sanderson Gulch",
+      9
+    ],
+    [
+      "Veterans Park",
+      9
+    ],
+    [
+      "Elmendorf Park",
+      8
+    ],
+    [
+      "Green Valley Ranch East Park",
+      8
+    ],
+    [
+      "Highland Park",
+      8
+    ],
+    [
+      "Jacobs (Frances Weisbart) Pa",
+      8
+    ],
+    [
+      "Unnamed Garland & Saratoga P",
+      8
+    ],
+    [
+      "Vanderbilt Park",
+      8
+    ],
+    [
+      "Central Park",
+      7
+    ],
+    [
+      "Chambers Rd Open Space",
+      7
+    ],
+    [
+      "City of Karmiel Park",
+      7
+    ],
+    [
+      "Frog Hollow Park",
+      7
+    ],
+    [
+      "Fuller Park",
+      7
+    ],
+    [
+      "Golden Key Park",
+      7
+    ],
+    [
+      "City of Axum Park",
+      6
+    ],
+    [
+      "Falcon Park",
+      6
+    ],
+    [
+      "Martinez (Joseph P) Park",
+      6
+    ],
+    [
+      "Mestizo-Curtis Park",
+      6
+    ],
+    [
+      "St. Charles Place Park",
+      6
+    ],
+    [
+      "Unnamed Byers & Pecos Park",
+      6
+    ],
+    [
+      "Unnamed Garrison & Union Par",
+      6
+    ],
+    [
+      "Valverde Park",
+      6
+    ],
+    [
+      "Alamo Placita Park",
+      5
+    ],
+    [
+      "Aspgren (Clifford) Park",
+      5
+    ],
+    [
+      "Burns (DC) Park",
+      5
+    ],
+    [
+      "Community Plaza Park",
+      5
+    ],
+    [
+      "Dailey Park",
+      5
+    ],
+    [
+      "Highline Canal (GVR)",
+      5
+    ],
+    [
+      "Huston Lake Park",
+      5
+    ],
+    [
+      "Kelly Open Space",
+      5
+    ],
+    [
+      "Magna Carta Park",
+      5
+    ],
+    [
+      "Montclair Park",
+      5
+    ],
+    [
+      "Northside Park",
+      5
+    ],
+    [
+      "Park Ave Parks",
+      5
+    ],
+    [
+      "Parkfield",
+      5
+    ],
+    [
+      "Skyland Park",
+      5
+    ],
+    [
+      "Viking Park",
+      5
+    ],
+    [
+      "Bezoff (Ben) Park",
+      4
+    ],
+    [
+      "Flores (Hector M) Park",
+      4
+    ],
+    [
+      "Grant-Humphrey's Mansion Par",
+      4
+    ],
+    [
+      "Green Valley Ranch West Park",
+      4
+    ],
+    [
+      "Harvard Gulch North Park",
+      4
+    ],
+    [
+      "Morrison Park M34",
+      4
+    ],
+    [
+      "Robinson Park",
+      4
+    ],
+    [
+      "Stout Street Children's Park",
+      4
+    ],
+    [
+      "Unnamed Jefferson & Kendall ",
+      4
+    ],
+    [
+      "Aztlan Park",
+      3
+    ],
+    [
+      "City of Ulaanbaatar Park",
+      3
+    ],
+    [
+      "Civic Center Park",
+      3
+    ],
+    [
+      "Denver Zoo",
+      3
+    ],
+    [
+      "Godsman Park",
+      3
+    ],
+    [
+      "Goldsmith Gulch North",
+      3
+    ],
+    [
+      "Hallack Park",
+      3
+    ],
+    [
+      "Harvard Gulch Mini Park",
+      3
+    ],
+    [
+      "Highland Gateway Park",
+      3
+    ],
+    [
+      "Lawson (Sonny) Park",
+      3
+    ],
+    [
+      "Lowry Sports Complex",
+      3
+    ],
+    [
+      "Rosedale Park",
+      3
+    ],
+    [
+      "Sanderson Gulch - Florida & ",
+      3
+    ],
+    [
+      "Walker (Madame CJ ) Park",
+      3
+    ],
+    [
+      "Westerly Creek Park",
+      3
+    ],
+    [
+      "Westwood Park",
+      3
+    ],
+    [
+      "Williams (Dr. Daniel Hale) P",
+      3
+    ],
+    [
+      "Aqua Golf at Overland",
+      2
+    ],
+    [
+      "Chaffee (Jerome B) Park",
+      2
+    ],
+    [
+      "Chavez (Cesar E.) Park",
+      2
+    ],
+    [
+      "Cheesman Park Esplanade",
+      2
+    ],
+    [
+      "Ciancio Park",
+      2
+    ],
+    [
+      "City of Nairobi Park",
+      2
+    ],
+    [
+      "Colorado Blvd Park",
+      2
+    ],
+    [
+      "Congress Park",
+      2
+    ],
+    [
+      "DeBoer (SR) Park",
+      2
+    ],
+    [
+      "Douglass (Fredrick) Park",
+      2
+    ],
+    [
+      "Downing Islands (32nd & Cham",
+      2
+    ],
+    [
+      "E 56th Ave Open Space",
+      2
+    ],
+    [
+      "Gates Crescent Park",
+      2
+    ],
+    [
+      "Hampden Heights West Park",
+      2
+    ],
+    [
+      "Highland Senior Center Park",
+      2
+    ],
+    [
+      "Jefferson Park",
+      2
+    ],
+    [
+      "Kennedy Soccer Complex",
+      2
+    ],
+    [
+      "Lindsley (Henry S) Park",
+      2
+    ],
+    [
+      "Schafer (Martin J) Park",
+      2
+    ],
+    [
+      "Speer Boulevard",
+      2
+    ],
+    [
+      "Village Place Park",
+      2
+    ],
+    [
+      "Athmar Park",
+      1
+    ],
+    [
+      "Barnum East Park",
+      1
+    ],
+    [
+      "Barnum North Park",
+      1
+    ],
+    [
+      "Central Park Rec Center",
+      1
+    ],
+    [
+      "City of Cuernavaca Park",
+      1
+    ],
+    [
+      "City of Kunming Park",
+      1
+    ],
+    [
+      "Dunham (Lee) Park",
+      1
+    ],
+    [
+      "Globeville Landing Park",
+      1
+    ],
+    [
+      "Jefferson Square Park",
+      1
+    ],
+    [
+      "Kennedy Ballfields Complex",
+      1
+    ],
+    [
+      "Kittredge Park",
+      1
+    ],
+    [
+      "Martin Luther King Park",
+      1
+    ],
+    [
+      "Platt (James H) Park",
+      1
+    ],
+    [
+      "Quick (Lenore B) Park",
+      1
+    ],
+    [
+      "Russell Square Park",
+      1
+    ],
+    [
+      "Saint Patrick's Neighborhood",
+      1
+    ],
+    [
+      "Swansea Park",
+      1
+    ],
+    [
+      "Town Center Park",
+      1
+    ],
+    [
+      "Unnamed Bates & Hobart Park",
+      1
+    ],
+    [
+      "Weir Gulch Marina Park",
+      1
+    ]
+  ],
+  "location_ash": [
+    [
+      "0 Non-park tree",
+      25275
+    ],
+    [
+      " ",
+      1952
+    ],
+    [
+      "N/A",
+      1223
+    ],
+    [
+      "City Park",
+      413
+    ],
+    [
+      "Denver Zoo",
+      233
+    ],
+    [
+      "Wallace (George M) Park",
+      195
+    ],
+    [
+      "Wellshire Municipal Golf Cou",
+      193
+    ],
+    [
+      "Kennedy (John F) Municipal G",
+      175
+    ],
+    [
+      "Sloan's Lake Park",
+      132
+    ],
+    [
+      "02 DevRev",
+      126
+    ],
+    [
+      "E 6th Ave",
+      114
+    ],
+    [
+      "Greenway Park",
+      106
+    ],
+    [
+      "East 17th Avenue Parkway",
+      103
+    ],
+    [
+      "Speer Boulevard",
+      96
+    ],
+    [
+      "University Blvd",
+      90
+    ],
+    [
+      "Wallace (George M) Park Nort",
+      84
+    ],
+    [
+      "Weir Gulch Park - North of A",
+      81
+    ],
+    [
+      "East 7th Avenue Parkway",
+      80
+    ],
+    [
+      "Cheesman Park",
+      72
+    ],
+    [
+      "Thomas (Fred N) Park",
+      71
+    ],
+    [
+      "Ruby Hill Park",
+      66
+    ],
+    [
+      "E Alameda Ave",
+      65
+    ],
+    [
+      "Overland Municipal Golf Cour",
+      63
+    ],
+    [
+      "Montview Boulevard",
+      58
+    ],
+    [
+      "Monaco St Pkwy (17th to Leet",
+      51
+    ],
+    [
+      "Berkeley Lake Park",
+      50
+    ],
+    [
+      "Monaco St Pkwy (Evans to Qui",
+      49
+    ],
+    [
+      "Federal Blvd",
+      46
+    ],
+    [
+      "Williams Street Parkway",
+      42
+    ],
+    [
+      "Cook (Judge Joseph E) Park",
+      41
+    ],
+    [
+      "Washington Park",
+      41
+    ],
+    [
+      "Harvard Gulch Golf Course",
+      38
+    ],
+    [
+      "City Park Municipal Golf Cou",
+      36
+    ],
+    [
+      "Weir Gulch Park - South of A",
+      35
+    ],
+    [
+      "Boyd (J. Langston) Park",
+      34
+    ],
+    [
+      "Other",
+      34
+    ],
+    [
+      "Willis Case Municipal Golf C",
+      33
+    ],
+    [
+      "Barnum Park",
+      32
+    ],
+    [
+      "Forest Street Parkway",
+      32
+    ],
+    [
+      "Bear Creek Park",
+      30
+    ],
+    [
+      "Cherry Creek Park",
+      29
+    ],
+    [
+      "Bible (James A) Park",
+      28
+    ],
+    [
+      "Observatory Park",
+      27
+    ],
+    [
+      "Bear Valley Park",
+      26
+    ],
+    [
+      "Hampden Heights Park",
+      26
+    ],
+    [
+      "Rosamond Park",
+      26
+    ],
+    [
+      "S Yosemite St",
+      26
+    ],
+    [
+      "Crestmoor Park",
+      24
+    ],
+    [
+      "Harvard Gulch East",
+      24
+    ],
+    [
+      "Pinehurst Park",
+      23
+    ],
+    [
+      "Downing Street Parkway",
+      22
+    ],
+    [
+      "Inspiration Point Park",
+      22
+    ],
+    [
+      "La Alma / Lincoln Park",
+      22
+    ],
+    [
+      "Lakewood / Dry Gulch Park",
+      21
+    ],
+    [
+      "Monaco St Pkwy (17th to MLK)",
+      21
+    ],
+    [
+      "Logan St",
+      20
+    ],
+    [
+      "Montbello Central Park",
+      20
+    ],
+    [
+      "Colorado Blvd (Alameda to 40",
+      19
+    ],
+    [
+      "Barnes (John W) Islands",
+      18
+    ],
+    [
+      "West-Bar-Val-Wood Park",
+      18
+    ],
+    [
+      "Eisenhower (Mamie Doud) Park",
+      17
+    ],
+    [
+      "Garland (David T) Park",
+      17
+    ],
+    [
+      "Hutchinson (Theodore A) Park",
+      17
+    ],
+    [
+      "Rocky Mountain Lake Park",
+      17
+    ],
+    [
+      "S Syracuse St",
+      17
+    ],
+    [
+      "Sanchez (Paco) Park",
+      17
+    ],
+    [
+      "Silverman (Melvin F) Park",
+      17
+    ],
+    [
+      "Sunken Gardens Park",
+      17
+    ],
+    [
+      "Central Park",
+      16
+    ],
+    [
+      "Lowry Blvd",
+      16
+    ],
+    [
+      "Morrison (George Sr.) Park",
+      16
+    ],
+    [
+      "Southwest Recreation Center",
+      16
+    ],
+    [
+      "Virginia Village Branch",
+      16
+    ],
+    [
+      "Harvey Park",
+      15
+    ],
+    [
+      "McWilliams (Robert H) Park",
+      15
+    ],
+    [
+      "S Yosemite St North",
+      15
+    ],
+    [
+      "Unnamed 51st & Zuni Park",
+      15
+    ],
+    [
+      "Verbena Park",
+      15
+    ],
+    [
+      "Argo Park",
+      14
+    ],
+    [
+      "Ash Grove Park",
+      14
+    ],
+    [
+      "Grant Frontier Park",
+      14
+    ],
+    [
+      "Green Valley Ranch West Park",
+      14
+    ],
+    [
+      "Arie P. Taylor Municipal Cen",
+      13
+    ],
+    [
+      "City of Potenza Park",
+      13
+    ],
+    [
+      "Commons Park",
+      13
+    ],
+    [
+      "Four Mile Historic Park",
+      13
+    ],
+    [
+      "Montbello Civic Center Park",
+      13
+    ],
+    [
+      "Park Ave Parks",
+      13
+    ],
+    [
+      "Athmar Park Branch",
+      12
+    ],
+    [
+      "City of Brest Park",
+      12
+    ],
+    [
+      "Eastmoor Park",
+      12
+    ],
+    [
+      "Frontier West",
+      12
+    ],
+    [
+      "La Lomita Park",
+      12
+    ],
+    [
+      "Mayfair Park",
+      12
+    ],
+    [
+      "The Central Library",
+      12
+    ],
+    [
+      "West Colfax Islands",
+      12
+    ],
+    [
+      "Bonnie Brae Boulevard",
+      11
+    ],
+    [
+      "Mestizo-Curtis Park",
+      11
+    ],
+    [
+      "Village Place Park",
+      11
+    ],
+    [
+      "Clermont Street Parkway",
+      10
+    ],
+    [
+      "Colorado Blvd (Cornell to Gi",
+      10
+    ],
+    [
+      "E 3rd Avenue Parkway",
+      10
+    ],
+    [
+      "Garfield Lake Park",
+      10
+    ],
+    [
+      "Harvard Gulch West",
+      10
+    ],
+    [
+      "Hutchinson East Park",
+      10
+    ],
+    [
+      "Loretto Heights Park",
+      10
+    ],
+    [
+      "Manley (James N) Park",
+      10
+    ],
+    [
+      "Pulaski Park",
+      10
+    ],
+    [
+      "Quebec St",
+      10
+    ],
+    [
+      "Southmoor Park",
+      10
+    ],
+    [
+      "Bow Mar Heights Park",
+      9
+    ],
+    [
+      "Denison Park",
+      9
+    ],
+    [
+      "East 32nd Avenue Parkway",
+      9
+    ],
+    [
+      "Governors Park",
+      9
+    ],
+    [
+      "Highland Park",
+      9
+    ],
+    [
+      "Jackie Robinson Fields",
+      9
+    ],
+    [
+      "Pinecrest Village Park",
+      9
+    ],
+    [
+      "Sanderson Gulch",
+      9
+    ],
+    [
+      "Veterans Park",
+      9
+    ],
+    [
+      "Whittier",
+      9
+    ],
+    [
+      "Chaffee (Jerome B) Park",
+      8
+    ],
+    [
+      "District 4",
+      8
+    ],
+    [
+      "Elmendorf Park",
+      8
+    ],
+    [
+      "Green Valley Ranch East Park",
+      8
+    ],
+    [
+      "Jacobs (Frances Weisbart) Pa",
+      8
+    ],
+    [
+      "Martin Luther King Park",
+      8
+    ],
+    [
+      "McNichols (William H) Park",
+      8
+    ],
+    [
+      "University Blvd Parkway",
+      8
+    ],
+    [
+      "Unnamed Garland & Saratoga P",
+      8
+    ],
+    [
+      "Vanderbilt Park",
+      8
+    ],
+    [
+      "Chambers Rd Open Space",
+      7
+    ],
+    [
+      "City of Karmiel Park",
+      7
+    ],
+    [
+      "City Park Esplanade",
+      7
+    ],
+    [
+      "Frog Hollow Park",
+      7
+    ],
+    [
+      "Fuller Park",
+      7
+    ],
+    [
+      "Golden Key Park",
+      7
+    ],
+    [
+      "City of Axum Park",
+      6
+    ],
+    [
+      "District 6",
+      6
+    ],
+    [
+      "East Alameda Avenue",
+      6
+    ],
+    [
+      "Edna Oliver Child Developmen",
+      6
+    ],
+    [
+      "Falcon Park",
+      6
+    ],
+    [
+      "Five Points Community Center",
+      6
+    ],
+    [
+      "Martinez (Joseph P) Park",
+      6
+    ],
+    [
+      "Montclair Park",
+      6
+    ],
+    [
+      "Rocky Mountain Ditch",
+      6
+    ],
+    [
+      "Roslyn Fleet Maintenance Fac",
+      6
+    ],
+    [
+      "Sheridan Blvd",
+      6
+    ],
+    [
+      "St. Charles Place Park",
+      6
+    ],
+    [
+      "Unnamed Byers & Pecos Park",
+      6
+    ],
+    [
+      "Unnamed Garrison & Union Par",
+      6
+    ],
+    [
+      "Valverde Park",
+      6
+    ],
+    [
+      "Alamo Placita Park",
+      5
+    ],
+    [
+      "Aspgren (Clifford) Park",
+      5
+    ],
+    [
+      "Aztlan Park",
+      5
+    ],
+    [
+      "Balsam Islands",
+      5
+    ],
+    [
+      "Bear Valley Branch",
+      5
+    ],
+    [
+      "Burns (DC) Park",
+      5
+    ],
+    [
+      "Ciancio Park",
+      5
+    ],
+    [
+      "Combined Communications Cent",
+      5
+    ],
+    [
+      "Community Plaza Park",
+      5
+    ],
+    [
+      "Dailey Park",
+      5
+    ],
+    [
+      "Downing Islands (36th & Mari",
+      5
+    ],
+    [
+      "Highline Canal (GVR)",
+      5
+    ],
+    [
+      "Huston Lake Park",
+      5
+    ],
+    [
+      "Kelly Open Space",
+      5
+    ],
+    [
+      "Magna Carta Park",
+      5
+    ],
+    [
+      "Monaco St Pkwy (Leetsdale to",
+      5
+    ],
+    [
+      "Northside Park",
+      5
+    ],
+    [
+      "Parkfield",
+      5
+    ],
+    [
+      "Skyland Park",
+      5
+    ],
+    [
+      "STATION 10",
+      5
+    ],
+    [
+      "Viking Park",
+      5
+    ],
+    [
+      "Arizona Parkway",
+      4
+    ],
+    [
+      "Bezoff (Ben) Park",
+      4
+    ],
+    [
+      "Columbus Park",
+      4
+    ],
+    [
+      "Flores (Hector M) Park",
+      4
+    ],
+    [
+      "Grant-Humphrey's Mansion Par",
+      4
+    ],
+    [
+      "Harvard Gulch North Park",
+      4
+    ],
+    [
+      "Morrison Park M34",
+      4
+    ],
+    [
+      "Robinson Park",
+      4
+    ],
+    [
+      "Ross-Cherry Creek Branch",
+      4
+    ],
+    [
+      "Russell Square Park",
+      4
+    ],
+    [
+      "STATION 28",
+      4
+    ],
+    [
+      "Stout Street Children's Park",
+      4
+    ],
+    [
+      "Unnamed Jefferson & Kendall ",
+      4
+    ],
+    [
+      "W Alameda Islands",
+      4
+    ],
+    [
+      "Ashland Recreation Center",
+      3
+    ],
+    [
+      "Buchtel Blvd",
+      3
+    ],
+    [
+      "Byers Branch",
+      3
+    ],
+    [
+      "City of Ulaanbaatar Park",
+      3
+    ],
+    [
+      "Civic Center Park",
+      3
+    ],
+    [
+      "Colfax Islands (Speer to Osa",
+      3
+    ],
+    [
+      "East Satellite Facility (Yal",
+      3
+    ],
+    [
+      "Godsman Park",
+      3
+    ],
+    [
+      "Goldsmith Gulch North",
+      3
+    ],
+    [
+      "Hale Parkway",
+      3
+    ],
+    [
+      "Hallack Park",
+      3
+    ],
+    [
+      "Harvard Gulch Mini Park",
+      3
+    ],
+    [
+      "Highland Gateway Park",
+      3
+    ],
+    [
+      "Human Services Bldg",
+      3
+    ],
+    [
+      "Jefferson Park",
+      3
+    ],
+    [
+      "Lawson (Sonny) Park",
+      3
+    ],
+    [
+      "Lowry Sports Complex",
+      3
+    ],
+    [
+      "N Peoria St",
+      3
+    ],
+    [
+      "Park Hill",
+      3
+    ],
+    [
+      "Rosedale Park",
+      3
+    ],
+    [
+      "Ross-University Hills",
+      3
+    ],
+    [
+      "Saint Patrick's Neighborhood",
+      3
+    ],
+    [
+      "Sanderson Gulch - Florida & ",
+      3
+    ],
+    [
+      "Sheriff's Impound Facility",
+      3
+    ],
+    [
+      "South Marion Street Parkway",
+      3
+    ],
+    [
+      "STATION 26",
+      3
+    ],
+    [
+      "STATION 30",
+      3
+    ],
+    [
+      "Unnamed 51st & Broadway",
+      3
+    ],
+    [
+      "W Oxford Ave Islands",
+      3
+    ],
+    [
+      "W Quincy St Islands",
+      3
+    ],
+    [
+      "Walker (Madame CJ ) Park",
+      3
+    ],
+    [
+      "Westerly Creek Park",
+      3
+    ],
+    [
+      "Westwood Child Care Center",
+      3
+    ],
+    [
+      "Westwood Park",
+      3
+    ],
+    [
+      "Williams (Dr. Daniel Hale) P",
+      3
+    ],
+    [
+      "6th & Josephine",
+      2
+    ],
+    [
+      "Ammons Islands",
+      2
+    ],
+    [
+      "Aqua Golf at Overland",
+      2
+    ],
+    [
+      "Chavez (Cesar E.) Park",
+      2
+    ],
+    [
+      "Cheesman Park Esplanade",
+      2
+    ],
+    [
+      "City of Nairobi Park",
+      2
+    ],
+    [
+      "Colorado Blvd Park",
+      2
+    ],
+    [
+      "Congress Park",
+      2
+    ],
+    [
+      "DeBoer (SR) Park",
+      2
+    ],
+    [
+      "District 2",
+      2
+    ],
+    [
+      "District 3",
+      2
+    ],
+    [
+      "Douglass (Fredrick) Park",
+      2
+    ],
+    [
+      "Downing Islands (32nd & Cham",
+      2
+    ],
+    [
+      "E 56th Ave Open Space",
+      2
+    ],
+    [
+      "Ford-Warren Branch",
+      2
+    ],
+    [
+      "Gates Crescent Park",
+      2
+    ],
+    [
+      "Glenarm Recreation Center",
+      2
+    ],
+    [
+      "Hampden Heights West Park",
+      2
+    ],
+    [
+      "Hentzell (Paul A) Park",
+      2
+    ],
+    [
+      "Highland Senior Center Park",
+      2
+    ],
+    [
+      "Highline Canal - Orleans to ",
+      2
+    ],
+    [
+      "Kennedy Soccer Complex",
+      2
+    ],
+    [
+      "Lindsley (Henry S) Park",
+      2
+    ],
+    [
+      "Pauline Robinson Branch",
+      2
+    ],
+    [
+      "Police Firing Range/ ParksRe",
+      2
+    ],
+    [
+      "Schafer (Martin J) Park",
+      2
+    ],
+    [
+      "South Irving Street Parkway",
+      2
+    ],
+    [
+      "Speer Blvd Park",
+      2
+    ],
+    [
+      "STATION 15",
+      2
+    ],
+    [
+      "West 14th Avenue Parkway",
+      2
+    ],
+    [
+      "Westwood Branch",
+      2
+    ],
+    [
+      "Whittier Islands",
+      2
+    ],
+    [
+      "01 ResDev",
+      1
+    ],
+    [
+      "Athmar Park",
+      1
+    ],
+    [
+      "Barnum East Park",
+      1
+    ],
+    [
+      "Barnum North Park",
+      1
+    ],
+    [
+      "Central Park Rec Center",
+      1
+    ],
+    [
+      "City of Cuernavaca Park",
+      1
+    ],
+    [
+      "City of Kunming Park",
+      1
+    ],
+    [
+      "Dunham (Lee) Park",
+      1
+    ],
+    [
+      "E 46th Ave",
+      1
+    ],
+    [
+      "E Gateway Ave",
+      1
+    ],
+    [
+      "Globeville Landing Park",
+      1
+    ],
+    [
+      "Irving and Moncrief Island",
+      1
+    ],
+    [
+      "Jefferson Square Park",
+      1
+    ],
+    [
+      "Kennedy Ballfields Complex",
+      1
+    ],
+    [
+      "Kittredge Park",
+      1
+    ],
+    [
+      "Lowry Child Development Cent",
+      1
+    ],
+    [
+      "Montbello Branch",
+      1
+    ],
+    [
+      "N Havana St",
+      1
+    ],
+    [
+      "Platt (James H) Park",
+      1
+    ],
+    [
+      "Quick (Lenore B) Park",
+      1
+    ],
+    [
+      "Richtofen Place Parkway",
+      1
+    ],
+    [
+      "Rodolfo 'Corky' Branch Libra",
+      1
+    ],
+    [
+      "Sam Gary Branch",
+      1
+    ],
+    [
+      "Swansea Park",
+      1
+    ],
+    [
+      "Syracuse St",
+      1
+    ],
+    [
+      "Town Center Park",
+      1
+    ],
+    [
+      "Unnamed Bates & Hobart Park",
+      1
+    ],
+    [
+      "Valdez-Perry Branch",
+      1
+    ],
+    [
+      "W Quincy St",
+      1
+    ],
+    [
+      "Washington Street Community ",
+      1
+    ],
+    [
+      "Weir Gulch Marina Park",
+      1
+    ]
+  ],
+  "eab_tag_all": [
+    [
+      " ",
+      329266
+    ],
+    [
+      "0",
+      25744
+    ],
+    [
+      "xx",
+      1821
+    ],
+    [
+      "BB",
+      1495
+    ],
+    [
+      "TI",
+      552
+    ],
+    [
+      "NA",
+      76
+    ],
+    [
+      "BB?",
+      68
+    ],
+    [
+      ",",
+      38
+    ],
+    [
+      "n",
+      9
+    ],
+    [
+      "1",
+      8
+    ],
+    [
+      "2",
+      8
+    ],
+    [
+      "2016 private contractor EAB treat",
+      3
+    ],
+    [
+      "310",
+      3
+    ],
+    [
+      "Fixed from Ashonprop",
+      3
+    ],
+    [
+      "N/A",
+      3
+    ],
+    [
+      "+BB",
+      2
+    ],
+    [
+      "-1",
+      2
+    ],
+    [
+      "13",
+      2
+    ],
+    [
+      "?",
+      1
+    ],
+    [
+      "110",
+      1
+    ],
+    [
+      "232",
+      1
+    ],
+    [
+      "291",
+      1
+    ],
+    [
+      "2999",
+      1
+    ],
+    [
+      "318",
+      1
+    ],
+    [
+      "329",
+      1
+    ],
+    [
+      "348",
+      1
+    ],
+    [
+      "390",
+      1
+    ],
+    [
+      "407",
+      1
+    ],
+    [
+      "497",
+      1
+    ],
+    [
+      "6",
+      1
+    ],
+    [
+      "628",
+      1
+    ],
+    [
+      "657",
+      1
+    ],
+    [
+      "659",
+      1
+    ],
+    [
+      "682",
+      1
+    ],
+    [
+      "697",
+      1
+    ],
+    [
+      "698",
+      1
+    ],
+    [
+      "699",
+      1
+    ],
+    [
+      "7\" broken branch;",
+      1
+    ],
+    [
+      "705",
+      1
+    ],
+    [
+      "707",
+      1
+    ],
+    [
+      "763",
+      1
+    ],
+    [
+      "Bad lightning strike",
+      1
+    ],
+    [
+      "basal woun",
+      1
+    ],
+    [
+      "BB\n\nBB?",
+      1
+    ],
+    [
+      "BB/ti",
+      1
+    ],
+    [
+      "Conks growing from main leader ov",
+      1
+    ],
+    [
+      "dead trunk tissue",
+      1
+    ],
+    [
+      "Dq",
+      1
+    ],
+    [
+      "Four large dead leaders",
+      1
+    ],
+    [
+      "Honey locust borer d shaped exit ",
+      1
+    ],
+    [
+      "I003",
+      1
+    ],
+    [
+      "I004",
+      1
+    ],
+    [
+      "I10",
+      1
+    ],
+    [
+      "i-1006",
+      1
+    ],
+    [
+      "i-1008",
+      1
+    ],
+    [
+      "i-1009",
+      1
+    ],
+    [
+      "i-1072",
+      1
+    ],
+    [
+      "i-1073",
+      1
+    ],
+    [
+      "i-1096",
+      1
+    ],
+    [
+      "i-1097",
+      1
+    ],
+    [
+      "i-1106",
+      1
+    ],
+    [
+      "i-1107",
+      1
+    ],
+    [
+      "i-1108",
+      1
+    ],
+    [
+      "I12",
+      1
+    ],
+    [
+      "I15",
+      1
+    ],
+    [
+      "I22",
+      1
+    ],
+    [
+      "I23",
+      1
+    ],
+    [
+      "I24",
+      1
+    ],
+    [
+      "I25",
+      1
+    ],
+    [
+      "i-634",
+      1
+    ],
+    [
+      "i-727",
+      1
+    ],
+    [
+      "i-731",
+      1
+    ],
+    [
+      "i-732",
+      1
+    ],
+    [
+      "i-733",
+      1
+    ],
+    [
+      "i-734",
+      1
+    ],
+    [
+      "i-737",
+      1
+    ],
+    [
+      "i-738",
+      1
+    ],
+    [
+      "i-739",
+      1
+    ],
+    [
+      "i-740",
+      1
+    ],
+    [
+      "i-741",
+      1
+    ],
+    [
+      "i-742",
+      1
+    ],
+    [
+      "i-743",
+      1
+    ],
+    [
+      "i-744",
+      1
+    ],
+    [
+      "i-749",
+      1
+    ],
+    [
+      "i-751",
+      1
+    ],
+    [
+      "i-752",
+      1
+    ],
+    [
+      "i-756",
+      1
+    ],
+    [
+      "i-757",
+      1
+    ],
+    [
+      "i-788",
+      1
+    ],
+    [
+      "i-800",
+      1
+    ],
+    [
+      "i-802",
+      1
+    ],
+    [
+      "i-803",
+      1
+    ],
+    [
+      "i-804",
+      1
+    ],
+    [
+      "i-805",
+      1
+    ],
+    [
+      "i-806",
+      1
+    ],
+    [
+      "i-807",
+      1
+    ],
+    [
+      "i-809",
+      1
+    ],
+    [
+      "i-810",
+      1
+    ],
+    [
+      "i-811",
+      1
+    ],
+    [
+      "i-812",
+      1
+    ],
+    [
+      "i-814",
+      1
+    ],
+    [
+      "i-817",
+      1
+    ],
+    [
+      "i-818",
+      1
+    ],
+    [
+      "i-820",
+      1
+    ],
+    [
+      "i-821",
+      1
+    ],
+    [
+      "i-822",
+      1
+    ],
+    [
+      "i-823",
+      1
+    ],
+    [
+      "i-832",
+      1
+    ],
+    [
+      "i-845",
+      1
+    ],
+    [
+      "i-850",
+      1
+    ],
+    [
+      "i-852",
+      1
+    ],
+    [
+      "i-878",
+      1
+    ],
+    [
+      "i-880",
+      1
+    ],
+    [
+      "i-881",
+      1
+    ],
+    [
+      "i-882",
+      1
+    ],
+    [
+      "i-883",
+      1
+    ],
+    [
+      "i-884",
+      1
+    ],
+    [
+      "i-885",
+      1
+    ],
+    [
+      "i-886",
+      1
+    ],
+    [
+      "i-887",
+      1
+    ],
+    [
+      "i-888",
+      1
+    ],
+    [
+      "i-889",
+      1
+    ],
+    [
+      "i-890",
+      1
+    ],
+    [
+      "i-892",
+      1
+    ],
+    [
+      "i-893",
+      1
+    ],
+    [
+      "i-894",
+      1
+    ],
+    [
+      "i-895",
+      1
+    ],
+    [
+      "i-896",
+      1
+    ],
+    [
+      "i-897",
+      1
+    ],
+    [
+      "i-898",
+      1
+    ],
+    [
+      "i-901",
+      1
+    ],
+    [
+      "i-903",
+      1
+    ],
+    [
+      "i-904",
+      1
+    ],
+    [
+      "i-905",
+      1
+    ],
+    [
+      "i-907",
+      1
+    ],
+    [
+      "i-908",
+      1
+    ],
+    [
+      "i-912",
+      1
+    ],
+    [
+      "i-913",
+      1
+    ],
+    [
+      "i-914",
+      1
+    ],
+    [
+      "i-916",
+      1
+    ],
+    [
+      "i-927",
+      1
+    ],
+    [
+      "i-930",
+      1
+    ],
+    [
+      "i-941",
+      1
+    ],
+    [
+      "i-943",
+      1
+    ],
+    [
+      "i-944",
+      1
+    ],
+    [
+      "i-945",
+      1
+    ],
+    [
+      "i-947",
+      1
+    ],
+    [
+      "i-949",
+      1
+    ],
+    [
+      "i-954",
+      1
+    ],
+    [
+      "i-955",
+      1
+    ],
+    [
+      "i-956",
+      1
+    ],
+    [
+      "i-957",
+      1
+    ],
+    [
+      "i-959",
+      1
+    ],
+    [
+      "i-960",
+      1
+    ],
+    [
+      "i-962",
+      1
+    ],
+    [
+      "i-964",
+      1
+    ],
+    [
+      "i-965",
+      1
+    ],
+    [
+      "i-966",
+      1
+    ],
+    [
+      "i-968",
+      1
+    ],
+    [
+      "i-973",
+      1
+    ],
+    [
+      "i-974",
+      1
+    ],
+    [
+      "i-976",
+      1
+    ],
+    [
+      "i-977",
+      1
+    ],
+    [
+      "i-979",
+      1
+    ],
+    [
+      "i-996",
+      1
+    ],
+    [
+      "Issue notice no planting now",
+      1
+    ],
+    [
+      "Large hanger over street laying o",
+      1
+    ],
+    [
+      "No root flair",
+      1
+    ],
+    [
+      "Notice",
+      1
+    ],
+    [
+      "Possible cavity and upper canopy ",
+      1
+    ],
+    [
+      "Previous failure and mushrooms at",
+      1
+    ],
+    [
+      "Red Cortland",
+      1
+    ],
+    [
+      "REM N due to cavity and sounding ",
+      1
+    ],
+    [
+      "scale",
+      1
+    ],
+    [
+      "Suckers at base",
+      1
+    ],
+    [
+      "Tree is mostly dead should come d",
+      1
+    ],
+    [
+      "Very large dead leaders Overstree",
+      1
+    ],
+    [
+      "Walnut tree is essentially dead. ",
+      1
+    ]
+  ],
+  "eab_tag_ash": [
+    [
+      " ",
+      29176
+    ],
+    [
+      "xx",
+      1733
+    ],
+    [
+      "BB",
+      1481
+    ],
+    [
+      "TI",
+      545
+    ],
+    [
+      "0",
+      329
+    ],
+    [
+      "BB?",
+      67
+    ],
+    [
+      "2",
+      7
+    ],
+    [
+      "2016 private contractor EAB treat",
+      3
+    ],
+    [
+      "+BB",
+      2
+    ],
+    [
+      "?",
+      1
+    ],
+    [
+      "1",
+      1
+    ],
+    [
+      "13",
+      1
+    ],
+    [
+      "657",
+      1
+    ],
+    [
+      "659",
+      1
+    ],
+    [
+      "682",
+      1
+    ],
+    [
+      "697",
+      1
+    ],
+    [
+      "698",
+      1
+    ],
+    [
+      "699",
+      1
+    ],
+    [
+      "705",
+      1
+    ],
+    [
+      "707",
+      1
+    ],
+    [
+      "763",
+      1
+    ],
+    [
+      "Bad lightning strike",
+      1
+    ],
+    [
+      "basal woun",
+      1
+    ],
+    [
+      "BB\n\nBB?",
+      1
+    ],
+    [
+      "BB/ti",
+      1
+    ],
+    [
+      "dead trunk tissue",
+      1
+    ],
+    [
+      "Dq",
+      1
+    ],
+    [
+      "Four large dead leaders",
+      1
+    ],
+    [
+      "Honey locust borer d shaped exit ",
+      1
+    ],
+    [
+      "I003",
+      1
+    ],
+    [
+      "I004",
+      1
+    ],
+    [
+      "I10",
+      1
+    ],
+    [
+      "i-1009",
+      1
+    ],
+    [
+      "i-1072",
+      1
+    ],
+    [
+      "i-1073",
+      1
+    ],
+    [
+      "i-1096",
+      1
+    ],
+    [
+      "i-1097",
+      1
+    ],
+    [
+      "I12",
+      1
+    ],
+    [
+      "I15",
+      1
+    ],
+    [
+      "I22",
+      1
+    ],
+    [
+      "I23",
+      1
+    ],
+    [
+      "I24",
+      1
+    ],
+    [
+      "I25",
+      1
+    ],
+    [
+      "i-727",
+      1
+    ],
+    [
+      "i-731",
+      1
+    ],
+    [
+      "i-732",
+      1
+    ],
+    [
+      "i-733",
+      1
+    ],
+    [
+      "i-734",
+      1
+    ],
+    [
+      "i-737",
+      1
+    ],
+    [
+      "i-738",
+      1
+    ],
+    [
+      "i-739",
+      1
+    ],
+    [
+      "i-740",
+      1
+    ],
+    [
+      "i-741",
+      1
+    ],
+    [
+      "i-742",
+      1
+    ],
+    [
+      "i-743",
+      1
+    ],
+    [
+      "i-744",
+      1
+    ],
+    [
+      "i-749",
+      1
+    ],
+    [
+      "i-751",
+      1
+    ],
+    [
+      "i-752",
+      1
+    ],
+    [
+      "i-757",
+      1
+    ],
+    [
+      "i-800",
+      1
+    ],
+    [
+      "i-802",
+      1
+    ],
+    [
+      "i-803",
+      1
+    ],
+    [
+      "i-804",
+      1
+    ],
+    [
+      "i-805",
+      1
+    ],
+    [
+      "i-806",
+      1
+    ],
+    [
+      "i-807",
+      1
+    ],
+    [
+      "i-809",
+      1
+    ],
+    [
+      "i-810",
+      1
+    ],
+    [
+      "i-811",
+      1
+    ],
+    [
+      "i-812",
+      1
+    ],
+    [
+      "i-814",
+      1
+    ],
+    [
+      "i-817",
+      1
+    ],
+    [
+      "i-818",
+      1
+    ],
+    [
+      "i-820",
+      1
+    ],
+    [
+      "i-821",
+      1
+    ],
+    [
+      "i-822",
+      1
+    ],
+    [
+      "i-823",
+      1
+    ],
+    [
+      "i-832",
+      1
+    ],
+    [
+      "i-845",
+      1
+    ],
+    [
+      "i-850",
+      1
+    ],
+    [
+      "i-852",
+      1
+    ],
+    [
+      "i-878",
+      1
+    ],
+    [
+      "i-880",
+      1
+    ],
+    [
+      "i-881",
+      1
+    ],
+    [
+      "i-882",
+      1
+    ],
+    [
+      "i-883",
+      1
+    ],
+    [
+      "i-884",
+      1
+    ],
+    [
+      "i-885",
+      1
+    ],
+    [
+      "i-886",
+      1
+    ],
+    [
+      "i-887",
+      1
+    ],
+    [
+      "i-888",
+      1
+    ],
+    [
+      "i-889",
+      1
+    ],
+    [
+      "i-892",
+      1
+    ],
+    [
+      "i-893",
+      1
+    ],
+    [
+      "i-894",
+      1
+    ],
+    [
+      "i-895",
+      1
+    ],
+    [
+      "i-896",
+      1
+    ],
+    [
+      "i-897",
+      1
+    ],
+    [
+      "i-898",
+      1
+    ],
+    [
+      "i-901",
+      1
+    ],
+    [
+      "i-903",
+      1
+    ],
+    [
+      "i-904",
+      1
+    ],
+    [
+      "i-905",
+      1
+    ],
+    [
+      "i-907",
+      1
+    ],
+    [
+      "i-912",
+      1
+    ],
+    [
+      "i-913",
+      1
+    ],
+    [
+      "i-914",
+      1
+    ],
+    [
+      "i-927",
+      1
+    ],
+    [
+      "i-930",
+      1
+    ],
+    [
+      "i-941",
+      1
+    ],
+    [
+      "i-943",
+      1
+    ],
+    [
+      "i-944",
+      1
+    ],
+    [
+      "i-945",
+      1
+    ],
+    [
+      "i-947",
+      1
+    ],
+    [
+      "i-949",
+      1
+    ],
+    [
+      "i-954",
+      1
+    ],
+    [
+      "i-955",
+      1
+    ],
+    [
+      "i-956",
+      1
+    ],
+    [
+      "i-957",
+      1
+    ],
+    [
+      "i-959",
+      1
+    ],
+    [
+      "i-960",
+      1
+    ],
+    [
+      "i-962",
+      1
+    ],
+    [
+      "i-964",
+      1
+    ],
+    [
+      "i-965",
+      1
+    ],
+    [
+      "i-966",
+      1
+    ],
+    [
+      "i-973",
+      1
+    ],
+    [
+      "i-974",
+      1
+    ],
+    [
+      "i-976",
+      1
+    ],
+    [
+      "i-977",
+      1
+    ],
+    [
+      "i-979",
+      1
+    ],
+    [
+      "i-996",
+      1
+    ],
+    [
+      "Issue notice no planting now",
+      1
+    ],
+    [
+      "Large hanger over street laying o",
+      1
+    ],
+    [
+      "NA",
+      1
+    ],
+    [
+      "No root flair",
+      1
+    ],
+    [
+      "Possible cavity and upper canopy ",
+      1
+    ],
+    [
+      "Previous failure and mushrooms at",
+      1
+    ],
+    [
+      "Red Cortland",
+      1
+    ],
+    [
+      "REM N due to cavity and sounding ",
+      1
+    ],
+    [
+      "scale",
+      1
+    ],
+    [
+      "Suckers at base",
+      1
+    ],
+    [
+      "Tree is mostly dead should come d",
+      1
+    ],
+    [
+      "Very large dead leaders Overstree",
+      1
+    ],
+    [
+      "Walnut tree is essentially dead. ",
+      1
+    ]
+  ],
+  "risk_tag_all": [
+    [
+      null,
+      358701
+    ],
+    [
+      " ",
+      562
+    ]
+  ],
+  "disease_ash": [
+    [
+      "_N/A",
+      12591
+    ],
+    [
+      "N/A",
+      10355
+    ],
+    [
+      "borers",
+      4551
+    ],
+    [
+      " ",
+      2016
+    ],
+    [
+      "lilac-ash borer",
+      877
+    ],
+    [
+      "1 N/A",
+      770
+    ],
+    [
+      "aphids",
+      652
+    ],
+    [
+      "signs of stress",
+      615
+    ],
+    [
+      "crown dieback",
+      284
+    ],
+    [
+      "foliage disorder",
+      214
+    ],
+    [
+      "thin canopy",
+      81
+    ],
+    [
+      "frass",
+      69
+    ],
+    [
+      "sooty mold",
+      68
+    ],
+    [
+      "other - see notes",
+      44
+    ],
+    [
+      "sunscald",
+      40
+    ],
+    [
+      "eriophyid mites",
+      37
+    ],
+    [
+      "adelgids",
+      27
+    ],
+    [
+      "gall insects",
+      27
+    ],
+    [
+      "anthracnose",
+      19
+    ],
+    [
+      "scale insects",
+      19
+    ],
+    [
+      "chlorosis",
+      16
+    ],
+    [
+      "ash bark beetle",
+      14
+    ],
+    [
+      "squirrel damage",
+      10
+    ],
+    [
+      "cankers",
+      9
+    ],
+    [
+      "fruiting bodies",
+      8
+    ],
+    [
+      "slime flux",
+      8
+    ],
+    [
+      "woodpecker damage",
+      7
+    ],
+    [
+      "bacterial wetwood",
+      6
+    ],
+    [
+      "decay fungi",
+      6
+    ],
+    [
+      "leaf necrosis",
+      6
+    ],
+    [
+      "leaf scorch",
+      6
+    ],
+    [
+      "emerald ash borer",
+      5
+    ],
+    [
+      "needle necrosis",
+      3
+    ],
+    [
+      "bullet gall",
+      2
+    ],
+    [
+      "fire blight",
+      2
+    ],
+    [
+      "spider mites",
+      2
+    ],
+    [
+      "witch's broom",
+      2
+    ],
+    [
+      "armillaria",
+      1
+    ],
+    [
+      "bagworms",
+      1
+    ],
+    [
+      "carpenter ants",
+      1
+    ],
+    [
+      "construction damage",
+      1
+    ],
+    [
+      "drought stress",
+      1
+    ],
+    [
+      "gummosis",
+      1
+    ],
+    [
+      "heavy discoloration",
+      1
+    ],
+    [
+      "japanese beetle",
+      1
+    ],
+    [
+      "mistletoe",
+      1
+    ],
+    [
+      "red-headed ash borer",
+      1
+    ],
+    [
+      "thyronectria canker",
+      1
+    ]
+  ],
+  "structural_ash": [
+    [
+      "N/A",
+      11256
+    ],
+    [
+      "co-dominants",
+      2782
+    ],
+    [
+      "deadwood",
+      2323
+    ],
+    [
+      "trunk wounds",
+      2185
+    ],
+    [
+      " ",
+      2024
+    ],
+    [
+      "basal wound",
+      1336
+    ],
+    [
+      "restricted grow space",
+      915
+    ],
+    [
+      "poor structure",
+      698
+    ],
+    [
+      "girdling roots",
+      660
+    ],
+    [
+      "no root flare",
+      650
+    ],
+    [
+      "leader damage",
+      649
+    ],
+    [
+      "topped",
+      545
+    ],
+    [
+      "lost major leader or limb",
+      526
+    ],
+    [
+      "mechanical damage",
+      460
+    ],
+    [
+      "included bark",
+      414
+    ],
+    [
+      "dead leaders",
+      371
+    ],
+    [
+      "die back",
+      371
+    ],
+    [
+      "leaning",
+      357
+    ],
+    [
+      "multiple attachments",
+      349
+    ],
+    [
+      "heavily pruned",
+      343
+    ],
+    [
+      "stress epicormics",
+      275
+    ],
+    [
+      "hangers",
+      271
+    ],
+    [
+      "trunk decay",
+      250
+    ],
+    [
+      "loose cracked bark",
+      237
+    ],
+    [
+      "limb damage",
+      234
+    ],
+    [
+      "dead trunk tissue",
+      229
+    ],
+    [
+      "improperly pruned",
+      225
+    ],
+    [
+      "root exposure",
+      201
+    ],
+    [
+      "storm damage",
+      186
+    ],
+    [
+      "root damage",
+      159
+    ],
+    [
+      "bow / sweep",
+      156
+    ],
+    [
+      "improperly installed",
+      137
+    ],
+    [
+      "suckers",
+      123
+    ],
+    [
+      "suckers from cut stump",
+      114
+    ],
+    [
+      "excessive end weight",
+      106
+    ],
+    [
+      "utility lines above",
+      103
+    ],
+    [
+      "volunteer",
+      99
+    ],
+    [
+      "poor location",
+      96
+    ],
+    [
+      "sun scald",
+      91
+    ],
+    [
+      "cavity",
+      85
+    ],
+    [
+      "leaning - corrected",
+      78
+    ],
+    [
+      "other - see notes",
+      75
+    ],
+    [
+      "growing into sidewalk",
+      71
+    ],
+    [
+      "crossing branches",
+      66
+    ],
+    [
+      "fusing limbs",
+      66
+    ],
+    [
+      "suckers at base of trunk",
+      61
+    ],
+    [
+      "growing into grate or guard",
+      55
+    ],
+    [
+      "1 N/A",
+      51
+    ],
+    [
+      "vertical stress cracks",
+      46
+    ],
+    [
+      "in decline",
+      32
+    ],
+    [
+      "growing into fence",
+      29
+    ],
+    [
+      "raised soil",
+      29
+    ],
+    [
+      "lost main leader",
+      22
+    ],
+    [
+      "expansion cracks",
+      21
+    ],
+    [
+      "poor taper",
+      20
+    ],
+    [
+      "heading cuts",
+      16
+    ],
+    [
+      "in failure",
+      16
+    ],
+    [
+      "_Co-dominants",
+      12
+    ],
+    [
+      "cables / bolting previously insta",
+      12
+    ],
+    [
+      "girdled by straps",
+      11
+    ],
+    [
+      "growing into pole/post",
+      11
+    ],
+    [
+      "construction damage",
+      10
+    ],
+    [
+      "ivy / vines",
+      10
+    ],
+    [
+      "crotch split",
+      8
+    ],
+    [
+      "8 deadwood",
+      5
+    ],
+    [
+      "basal decay",
+      5
+    ],
+    [
+      "n/aX",
+      5
+    ],
+    [
+      "4 dead leaders",
+      4
+    ],
+    [
+      "9 topped",
+      4
+    ],
+    [
+      "overcrowding",
+      4
+    ],
+    [
+      "pollarded",
+      4
+    ],
+    [
+      "crowded by larger tree",
+      3
+    ],
+    [
+      "new curb/sidewalk",
+      3
+    ],
+    [
+      "unbalanced crown",
+      3
+    ],
+    [
+      "8 No Root Flare",
+      2
+    ],
+    [
+      "fair structure",
+      2
+    ],
+    [
+      "horizontal stress cracks",
+      2
+    ],
+    [
+      "lacking scaffolding",
+      2
+    ],
+    [
+      "witch's broom",
+      2
+    ],
+    [
+      "_No Root Flare",
+      1
+    ],
+    [
+      "5 dead leaders",
+      1
+    ],
+    [
+      "6 topped",
+      1
+    ],
+    [
+      "concrete on 4 sides",
+      1
+    ],
+    [
+      "large leader or limb decay",
+      1
+    ],
+    [
+      "large limbs/scaffold defect",
+      1
+    ],
+    [
+      "lawnmower damage",
+      1
+    ],
+    [
+      "lightning strike",
+      1
+    ],
+    [
+      "sheared",
+      1
+    ],
+    [
+      "topped for utility",
+      1
+    ]
+  ],
+  "inventory_date_min": "1604-09-07",
+  "inventory_date_max": "2026-06-30",
+  "ash_eab_blank": 29176,
+  "eab_zero_all": 25744,
+  "eab_zero_ash": 329
+}

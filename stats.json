@@ -1,0 +1,271 @@
+{
+  "source_pull_date": "2026-10-23",
+  "source_dataset": "ODC_PARK_TREEINVENTORY_P (Denver Open Data, ArcGIS FeatureServer layer 241)",
+  "total_records": 359263,
+  "non_tree_records": 53016,
+  "non_tree_share_pct": 14.8,
+  "non_tree_by_species": {
+    "_Vacant Site": 26222,
+    "_Vacant site-not plantable": 10563,
+    "_Stump": 8171,
+    "_Stump not plantable": 4626,
+    "_Tree requested": 3026,
+    "_unknown": 385,
+    "_Vacant site - new": 22,
+    "_Ash on property": 1
+  },
+  "admin_placeholder_records": 947,
+  "blank_species_records": 5,
+  "not_identified_tree_records": 53968,
+  "ash_inventory_date_eras": {
+    "pre_2016": 20160,
+    "y2016_2020": 10894,
+    "y2021_plus": 2425
+  },
+  "vacant_plantable": 26244,
+  "stumps": 12797,
+  "tree_records": 305295,
+  "ash_records": 33479,
+  "ash_share_of_trees_pct": 11.0,
+  "ash_share_of_all_records_pct": 9.3,
+  "name_collision_excluded": 1154,
+  "fraxinus_by_species": {
+    "Fraxinus pennsylvanica": 23244,
+    "Fraxinus americana": 10123,
+    "Fraxinus species": 55,
+    "Fraxinus nigra": 32,
+    "Fraxinus quadrangulata": 10,
+    "Fraxinus mandshurica": 8,
+    "Fraxinus velutina 'Modesto'": 3,
+    "Fraxinus angustifolia": 2,
+    "Fraxinus excelsior": 2
+  },
+  "green_ash": 23244,
+  "white_ash": 10123,
+  "top_tree_species": [
+    [
+      "Honey Locust",
+      23780,
+      7.8
+    ],
+    [
+      "Ash, Green",
+      23244,
+      7.6
+    ],
+    [
+      "Linden, Littleleaf",
+      13394,
+      4.4
+    ],
+    [
+      "Maple, Silver",
+      11630,
+      3.8
+    ],
+    [
+      "Elm, Siberian",
+      10772,
+      3.5
+    ]
+  ],
+  "condition_ash": {
+    "Fair": 21188,
+    "Good": 8440,
+    "Poor": 2991,
+    "Very Poor": 631,
+    "Dead": 180,
+    "Excellent": 24,
+    "N/A": 24,
+    " ": 1
+  },
+  "ash_poor_verypoor_dead": 3802,
+  "ash_poor_verypoor_dead_pct": 11.4,
+  "nonash_poor_verypoor_dead_pct": 10.7,
+  "ash_good_excellent_pct": 25.3,
+  "ash_fair_pct": 63.3,
+  "diameter_ash": {
+    "12 to 18": 11857,
+    "6 to 12": 11677,
+    "18 to 24": 4658,
+    "0 to 6": 2724,
+    "24 to 30": 1691,
+    "30 to 36": 597,
+    "36 to 42": 162,
+    " ": 58,
+    "42 to 48": 37,
+    "48 +": 18
+  },
+  "ash_le12_bins": 14401,
+  "ash_le12_pct": 43.0,
+  "ash_ge18": 7163,
+  "ash_ge18_pct": 21.4,
+  "ash_ge24": 2505,
+  "ash_ge24_pct": 7.5,
+  "ash_diameter_unknown": 58,
+  "site_designation_ash": {
+    "Private Maintained Street Tr": 22574,
+    "Park": 2612,
+    " ": 1956,
+    "School": 1508,
+    "Street Tree": 1463,
+    "HLCC": 1186,
+    "Private Property Tree": 664,
+    "Golf Course": 501,
+    "Median": 448,
+    "HOA street tree": 302,
+    "City Building": 176,
+    "Front or side setback": 32,
+    "Sidewalk": 19,
+    "City Owned Parcel": 15,
+    "Orphan Parcel": 9,
+    "Tree Lawn": 5,
+    "City maintained street tree": 4,
+    "Natural Area": 3,
+    "Other": 2
+  },
+  "ash_private_maintained_street": 22574,
+  "ash_private_maintained_street_pct": 67.4,
+  "ash_park_designation": 2612,
+  "ash_park_designation_pct": 7.8,
+  "ash_school": 1508,
+  "eab_tag_ash_blank": 29176,
+  "eab_tag_ash_blank_pct": 87.1,
+  "eab_tag_ash_tagged": 4303,
+  "eab_tag_unique_values_all": 178,
+  "neighborhood_values_with_trees": 81,
+  "real_neighborhoods_with_trees": 78,
+  "top_ash_count_neighborhoods": [
+    [
+      "Gateway - Green Valley Ranch",
+      2374,
+      18544,
+      12.8
+    ],
+    [
+      "Central Park",
+      1961,
+      23032,
+      8.5
+    ],
+    [
+      "South Park Hill",
+      1203,
+      8360,
+      14.4
+    ],
+    [
+      "Congress Park",
+      1068,
+      5781,
+      18.5
+    ],
+    [
+      "Indian Creek",
+      924,
+      3349,
+      27.6
+    ]
+  ],
+  "top_ash_rate_neighborhoods": [
+    [
+      "Marston",
+      815,
+      2757,
+      29.6
+    ],
+    [
+      "Indian Creek",
+      924,
+      3349,
+      27.6
+    ],
+    [
+      "Windsor",
+      408,
+      1796,
+      22.7
+    ],
+    [
+      "City Park West",
+      486,
+      2246,
+      21.6
+    ],
+    [
+      "Congress Park",
+      1068,
+      5781,
+      18.5
+    ]
+  ],
+  "bottom_ash_rate_neighborhoods": [
+    [
+      "Jefferson Park",
+      107,
+      2054,
+      5.2
+    ],
+    [
+      "Auraria",
+      60,
+      1189,
+      5.0
+    ],
+    [
+      "Chaffee Park",
+      77,
+      1756,
+      4.4
+    ],
+    [
+      "CBD",
+      52,
+      1400,
+      3.7
+    ],
+    [
+      "Union Station",
+      69,
+      2197,
+      3.1
+    ]
+  ],
+  "top_parks_by_ash": [
+    [
+      "City Park",
+      400
+    ],
+    [
+      "Wallace (George M) Park",
+      195
+    ],
+    [
+      "Sloan's Lake Park",
+      132
+    ],
+    [
+      "Wallace (George M) Park Nort",
+      84
+    ],
+    [
+      "Weir Gulch Park - North of A",
+      81
+    ],
+    [
+      "Cheesman Park",
+      72
+    ],
+    [
+      "Ruby Hill Park",
+      66
+    ],
+    [
+      "Thomas (Fred N) Park",
+      47
+    ]
+  ],
+  "inventory_date_min": "1604-09-07",
+  "inventory_date_max": "2026-06-30",
+  "blank_species_note": "5 blank-species records are EXCLUDED from the tree population (see not_identified_tree_records), disclosed in Finding 1."
+}
